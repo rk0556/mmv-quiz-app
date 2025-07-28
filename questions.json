@@ -32,7 +32,7 @@
             "C": "Friction | घर्यण",
             "D": "Screw and Nut | स्‍ र ू ( नट) एिंव नट"
         },
-        "image": "extracted_images\\page_1_img_1.png",
+        "image": "extracted_images/page_1_img_1.png",
         "answer": "C"
     },
     {
@@ -44,7 +44,7 @@
             "C": "Diaphragm clutch |  ायफ्राम  क्‍ लि",
             "D": "Multi plate dry wet clutches | मल्‍ टी  प्‍ लेट  ुखे \nएिंव क्‍ लि \n 5  : What is the type of clutch?| चनम्‍ न  कौन   ी \nप्रकार  का क्‍ लि है ? \n \nA :  Single plate clutch | च िंगल  प्‍ लेट क्‍ लि \nB : Dog clutch |   ग क्‍ लि \nC : Multi plate clutch | मल्‍ टी  प्‍ लेट क्‍ लि \nD :  Cone clutch | क न  क्‍ लि"
         },
-        "image": "extracted_images\\page_1_img_3.png",
+        "image": "extracted_images/page_1_img_3.png",
         "answer": "B"
     },
     {
@@ -56,7 +56,7 @@
             "C": "Dog clutch |   ग क्‍ लि",
             "D": "Multi plate clutch | मल्‍ टी  प्‍ लेट क्‍ लि"
         },
-        "image": "extracted_images\\page_1_img_5.png",
+        "image": "extracted_images/page_1_img_5.png",
         "answer": "B"
     },
     {
@@ -68,7 +68,7 @@
             "C": "Sleeve | स्‍ लीव",
             "D": "Internal teeth | अन्‍‍ दरूनी  दातें (Internal teeth)"
         },
-        "image": "extracted_images\\page_2_img_2.png",
+        "image": "extracted_images/page_2_img_2.png",
         "answer": "A"
     },
     {
@@ -80,7 +80,7 @@
             "C": "Fluid coupling | फ्लल्‍ यू  कपचलिंग",
             "D": "Dog clutch |   ग क्‍ लि"
         },
-        "image": "extracted_images\\page_2_img_3.png",
+        "image": "extracted_images/page_2_img_3.png",
         "answer": "C"
     },
     {
@@ -92,7 +92,7 @@
             "C": "Multi plate clutch| मल्‍ टी  प्‍ लेट क्‍ लि",
             "D": "Single plate clutch | च िंगल  प्‍ लेट क्‍ लि"
         },
-        "image": "extracted_images\\page_2_img_4.png",
+        "image": "extracted_images/page_2_img_4.png",
         "answer": "C"
     },
     {
@@ -104,7 +104,7 @@
             "C": "Driven shaft |  रचवन  र्ाफ्ट",
             "D": "Interior fins | अन्‍‍ दरूनी  चिन्‍‍"
         },
-        "image": "extracted_images\\page_2_img_5.png",
+        "image": "extracted_images/page_2_img_5.png",
         "answer": "D"
     },
     {
@@ -116,7 +116,7 @@
             "C": "Straight edge and slip gauge | स्‍ टरेट एज और \nस्‍ लीप गेज",
             "D": "Parallel block and radious gauge | पेरेलल  \nब्‍ लॉक और रेच यिं  गेज \n\nMechanic Motor Vehicle - 2 Year - Module 1 : Transmission System  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 3 of 66"
         },
-        "image": "extracted_images\\page_2_img_6.png",
+        "image": "extracted_images/page_2_img_6.png",
         "answer": "A"
     },
     {
@@ -128,7 +128,7 @@
             "C": "Clutch aligner | क्‍ लि एलािंइनर",
             "D": "Cylindrical drift | च लेण्‍  रीक्‍ ल  च रफ्ट"
         },
-        "image": "extracted_images\\page_3_img_2.png",
+        "image": "extracted_images/page_3_img_2.png",
         "answer": "C"
     },
     {
@@ -140,7 +140,7 @@
             "C": "Inside micrometer | इन  ाइ  माइर मीटर",
             "D": "Bore dial gauge |  ायल  ब र गेज"
         },
-        "image": "extracted_images\\page_3_img_3.png",
+        "image": "extracted_images/page_3_img_3.png",
         "answer": "B"
     },
     {
@@ -152,7 +152,7 @@
             "C": "Lip seal | चलप  ील",
             "D": "Teflow seal | टेफ्ल   ील"
         },
-        "image": "extracted_images\\page_3_img_4.png",
+        "image": "extracted_images/page_3_img_4.png",
         "answer": "C"
     },
     {
@@ -164,7 +164,7 @@
             "C": "Synchromesh gear box | च न्‍‍ र मैर् चगयर  बॉक्‍",
             "D": "Automatic synchromesh gear box | \nऑट मेचटक  स्‍ लाइच ग  चगयर  बॉक्‍"
         },
-        "image": "extracted_images\\page_3_img_5.png",
+        "image": "extracted_images/page_3_img_5.png",
         "answer": "A"
     },
     {
@@ -176,7 +176,7 @@
             "C": "Synchromesh gear box | च न्‍‍ र मैर् चगयर  बॉक्‍",
             "D": "Automatic sliding gear box | ऑट मेचटक  \nरूलाइच ि्ग  चगयर बॉक्‍"
         },
-        "image": "extracted_images\\page_3_img_6.png",
+        "image": "extracted_images/page_3_img_6.png",
         "answer": "B"
     },
     {
@@ -200,7 +200,7 @@
             "C": "64 mm",
             "D": "68 mm"
         },
-        "image": "extracted_images\\page_4_img_2.png",
+        "image": "extracted_images/page_4_img_2.png",
         "answer": "A"
     },
     {
@@ -224,7 +224,7 @@
             "C": "Ball joint | बाल ज‍ वािंइट",
             "D": "Double joint |  बल  ज‍ वािंइट"
         },
-        "image": "extracted_images\\page_4_img_3.png",
+        "image": "extracted_images/page_4_img_3.png",
         "answer": "B"
     },
     {
@@ -236,7 +236,7 @@
             "C": "Rear wheel drive line | ररयर  व्‍ हील  राइव  लाइन",
             "D": "Center wheel drive line |  ेन्‍‍ टर व्‍ हील  राइव  \nलाइन"
         },
-        "image": "extracted_images\\page_4_img_4.png",
+        "image": "extracted_images/page_4_img_4.png",
         "answer": "C"
     },
     {
@@ -248,7 +248,7 @@
             "C": "Center wheel drive line |  ेन्‍‍ टर व्‍ हील  राइव  \nलाइन",
             "D": "Four wheel drive line | ि र व्‍ हील  राइव  लाइन"
         },
-        "image": "extracted_images\\page_4_img_5.png",
+        "image": "extracted_images/page_4_img_5.png",
         "answer": "A"
     },
     {
@@ -260,7 +260,7 @@
             "C": "Multi and double cone type | मल्‍ टी  और  बल  \nक न  टाइप",
             "D": "Porche type | प िय टाइप  \n \n\nMechanic Motor Vehicle - 2 Year - Module 1 : Transmission System  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 5 of 66"
         },
-        "image": "extracted_images\\page_4_img_6.png",
+        "image": "extracted_images/page_4_img_6.png",
         "answer": "A"
     },
     {
@@ -272,7 +272,7 @@
             "C": "Baulk type | बल्‍ क  टाइप",
             "D": "Porche type| प िय टाइप"
         },
-        "image": "extracted_images\\page_5_img_2.png",
+        "image": "extracted_images/page_5_img_2.png",
         "answer": "C"
     },
     {
@@ -284,7 +284,7 @@
             "C": "Hub | हप",
             "D": "Synchronizer sleeve | च न्‍‍ क नाइजर  स्‍ लीव"
         },
-        "image": "extracted_images\\page_5_img_3.png",
+        "image": "extracted_images/page_5_img_3.png",
         "answer": "D"
     },
     {
@@ -296,7 +296,7 @@
             "C": "Pot joint | प ट ज‍ वािंइट",
             "D": "Tripod joint | टरॉप   ज‍ वािंइट \n 27  : What is the type of constant velocity joint? \n| चनम्‍ न  चित्र में कौन   ी प्रकार  का ज‍ वाइिंट है ? \n \nA :  Tripod joint | बाल एिंव टरयूचनयन  टाइप  यूचनव यल  \nज‍ वािंइट \nB :  Ball joint | रा  टाईप  यूचनव यल  ज‍ वािंइट \nC : Pot joint | स्‍ लीप ज‍ वािंइट \nD : Double joint |  बल  ज‍ वािंइट"
         },
-        "image": "extracted_images\\page_5_img_4.png",
+        "image": "extracted_images/page_5_img_4.png",
         "answer": "B"
     },
     {
@@ -308,7 +308,7 @@
             "C": "Slip joint | प ट ज‍ वािंइट",
             "D": "Double joint |  बल  ज‍ वािंइट"
         },
-        "image": "extracted_images\\page_5_img_6.png",
+        "image": "extracted_images/page_5_img_6.png",
         "answer": "B"
     },
     {
@@ -320,7 +320,7 @@
             "C": "Four wheel drive | ि र व्‍ हील  राइव",
             "D": "Front wheel drive | फ्रन्‍‍ ट  व्‍ हील  राइव  \n \n\nMechanic Motor Vehicle - 2 Year - Module 1 : Transmission System  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 6 of 66"
         },
-        "image": "extracted_images\\page_5_img_7.png",
+        "image": "extracted_images/page_5_img_7.png",
         "answer": "A"
     },
     {
@@ -332,7 +332,7 @@
             "C": "Rear wheel drive | ररयर  व्‍ हील  राइव",
             "D": "Hotchkiss drive | ह िचक   राइव"
         },
-        "image": "extracted_images\\page_6_img_2.png",
+        "image": "extracted_images/page_6_img_2.png",
         "answer": "D"
     },
     {
@@ -368,7 +368,7 @@
             "C": "Double joint fork |  बल  ज‍ वािंइट ि क य",
             "D": "Sealing cap | च चलिंग  कप"
         },
-        "image": "extracted_images\\page_6_img_3.png",
+        "image": "extracted_images/page_6_img_3.png",
         "answer": "B"
     },
     {
@@ -572,7 +572,7 @@
             "C": "Torque plate | टॉक य  प्‍ लेट",
             "D": "Rivets | ररचवट"
         },
-        "image": "extracted_images\\page_8_img_2.png",
+        "image": "extracted_images/page_8_img_2.png",
         "answer": "A"
     },
     {
@@ -584,7 +584,7 @@
             "C": "Fly wheel | फ्लाई  व्‍ हील",
             "D": "Pressure plate | प्रैर्र  प्‍ लेट"
         },
-        "image": "extracted_images\\page_8_img_3.png",
+        "image": "extracted_images/page_8_img_3.png",
         "answer": "C"
     },
     {
@@ -968,7 +968,7 @@
             "C": "Camber angle | क ै म्‍ बर एिंगल",
             "D": "Included angle | इन्‍‍ क्‍ ल्‍ यू  एिंगल"
         },
-        "image": "extracted_images\\page_12_img_2.png",
+        "image": "extracted_images/page_12_img_2.png",
         "answer": "C"
     },
     {
@@ -980,7 +980,7 @@
             "C": "Compensator | कम्‍ पन्‍‍ न ेंटर",
             "D": "Observer | आब्‍ जयवर"
         },
-        "image": "extracted_images\\page_12_img_3.png",
+        "image": "extracted_images/page_12_img_3.png",
         "answer": "A"
     },
     {
@@ -992,7 +992,7 @@
             "C": "Unloading valve | अनल च िंग  वाल्‍ व",
             "D": "Pressure relief valve | प्रैर्र  ररचलि  वाल्‍ व"
         },
-        "image": "extracted_images\\page_12_img_4.png",
+        "image": "extracted_images/page_12_img_4.png",
         "answer": "D"
     },
     {
@@ -1004,7 +1004,7 @@
             "C": "Rotary valve | र टरी  वाल्‍ व",
             "D": "Pressure release valve | प्रैर्र  ररचलि  वाल्‍ व"
         },
-        "image": "extracted_images\\page_12_img_5.png",
+        "image": "extracted_images/page_12_img_5.png",
         "answer": "A"
     },
     {
@@ -1016,7 +1016,7 @@
             "C": "Valve sleeve | वाल्‍ व  स्‍ लीव",
             "D": "Input shaft | इनपूट  र्ाफ्ट"
         },
-        "image": "extracted_images\\page_12_img_6.png",
+        "image": "extracted_images/page_12_img_6.png",
         "answer": "D"
     },
     {
@@ -1028,7 +1028,7 @@
             "C": "Electronic power steering |  ेमी इलीप्‍ टीक्‍ ल \nस्प्रिंग",
             "D": "Electrical power steering | ि ू ल इलीप्‍ टीक्‍ ल \nस्प्रिंग"
         },
-        "image": "extracted_images\\page_13_img_2.png",
+        "image": "extracted_images/page_13_img_2.png",
         "answer": "A"
     },
     {
@@ -1040,7 +1040,7 @@
             "C": "Semi elliptical spring |  ेमी इलीप्‍ टीक्‍ ल स्प्रिंग",
             "D": "Full elliptical spring | ि ू ल इलीप्‍ टीक्‍ ल स्प्रिंग"
         },
-        "image": "extracted_images\\page_13_img_3.png",
+        "image": "extracted_images/page_13_img_3.png",
         "answer": "B"
     },
     {
@@ -1052,7 +1052,7 @@
             "C": "Quarter elliptical spring | क्‍ वायटर इलीप्‍ टीकल \nस्प्रिंग",
             "D": "Semi elliptical sprin g |  ेमी इलीप्‍ टीक्‍ ल स्प्रिंग  \n 92  : What is the type of leaf spring? | चनम्‍ न  चित्र \nमें, चक  प्रकार  के लीि  स्प्रिंग  क  चदखाया  गया है ? \n \nA : Semi elliptical spring |  ेमी इलीप्‍ टीक्‍ ल स्प्रिंग  \nB : Quarter elliptical spring | क्‍ वायटर इलीप्‍ टीकल \nस्प्रिंग \nC : Three elliptical spring | थ्री इलीप्‍ टीक्‍ ल स्प्रिंग  \nD : Transverse spring | टरािं व य  स्प्रिंग"
         },
-        "image": "extracted_images\\page_13_img_4.png",
+        "image": "extracted_images/page_13_img_4.png",
         "answer": "C"
     },
     {
@@ -1064,7 +1064,7 @@
             "C": "Air suspension system | एयर  स्‍ पेंर्न च स्‍ टम",
             "D": "Rubber spring suspension system | रबर स्प्रिंग  \n स्‍ पेंर्न च स्‍ टम"
         },
-        "image": "extracted_images\\page_13_img_6.png",
+        "image": "extracted_images/page_13_img_6.png",
         "answer": "B"
     },
     {
@@ -1076,7 +1076,7 @@
             "C": "Multiple leaf spring | मल्‍ टीपल लीि  स्प्रिंग",
             "D": "Coil spring | क्‍ वायन स्प्रिंग  \n\nMechanic Motor Vehicle - 2 Year - Module 2 :  Steering and Suspension System  \nReview ed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 14 of 66"
         },
-        "image": "extracted_images\\page_13_img_7.png",
+        "image": "extracted_images/page_13_img_7.png",
         "answer": "B"
     },
     {
@@ -1088,7 +1088,7 @@
             "C": "Thurst angle | थस्‍ टय एिंगल",
             "D": "Included angle | इन्‍‍ क्‍ लूच   एिंगल"
         },
-        "image": "extracted_images\\page_14_img_2.png",
+        "image": "extracted_images/page_14_img_2.png",
         "answer": "C"
     },
     {
@@ -1112,7 +1112,7 @@
             "C": "Castor angle | कास्‍ टर एिंगल",
             "D": "Thrust angle | थ्रस्ट एिंगल"
         },
-        "image": "extracted_images\\page_14_img_2.png",
+        "image": "extracted_images/page_14_img_2.png",
         "answer": "A"
     },
     {
@@ -1160,7 +1160,7 @@
             "C": "King pin inclination | चक िं ग  चपन इनक्‍ लीनेर्न",
             "D": "Included angle | इन्‍‍ कलूच   एिंगल"
         },
-        "image": "extracted_images\\page_14_img_4.png",
+        "image": "extracted_images/page_14_img_4.png",
         "answer": "C"
     },
     {
@@ -1172,7 +1172,7 @@
             "C": "Castor angle | कास्‍ टर एिंगल",
             "D": "Inclued angle | इन्‍‍ कलूच   एिंगल"
         },
-        "image": "extracted_images\\page_15_img_2.png",
+        "image": "extracted_images/page_15_img_2.png",
         "answer": "C"
     },
     {
@@ -1184,7 +1184,7 @@
             "C": "Rubber buffer | रबर फ्फर",
             "D": "Brackets | ब्रेस्प्र"
         },
-        "image": "extracted_images\\page_15_img_3.png",
+        "image": "extracted_images/page_15_img_3.png",
         "answer": "C"
     },
     {
@@ -1196,7 +1196,7 @@
             "C": "Air type suspension | एयर टाइप   िंस्‍ पेंर्न",
             "D": "Coil spring suspension | क्‍ वायल स्प्रिंग   िंस्‍ पेंर्न"
         },
-        "image": "extracted_images\\page_15_img_4.png",
+        "image": "extracted_images/page_15_img_4.png",
         "answer": "D"
     },
     {
@@ -1208,7 +1208,7 @@
             "C": "Control arm | कन्‍‍ टर ल आमय",
             "D": "Coil spring | क्‍ वायल स्प्रिंग"
         },
-        "image": "extracted_images\\page_15_img_5.png",
+        "image": "extracted_images/page_15_img_5.png",
         "answer": "B"
     },
     {
@@ -1220,7 +1220,7 @@
             "C": "Rubber spring suspen sion | रबर स्प्रिंग   िंस्‍ पेंर्न",
             "D": "Strut type suspension | स्‍ टरट टाइप   िंस्‍ पेंर्न"
         },
-        "image": "extracted_images\\page_15_img_6.png",
+        "image": "extracted_images/page_15_img_6.png",
         "answer": "D"
     },
     {
@@ -1232,7 +1232,7 @@
             "C": "Torsion bar suspension | टार न  बार  िंस्‍ पेंर्न",
             "D": "Rubber spring suspension | रबर स्प्पिंग  \n िंस्‍ पेंर्न \n \n\nMechanic Motor Vehicle - 2 Year - Module 2 :  Steering and Suspension System  \nReview ed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 16 of 66"
         },
-        "image": "extracted_images\\page_15_img_7.png",
+        "image": "extracted_images/page_15_img_7.png",
         "answer": "C"
     },
     {
@@ -1244,7 +1244,7 @@
             "C": "Tread | टरी",
             "D": "Tyre | टायर"
         },
-        "image": "extracted_images\\page_16_img_2.png",
+        "image": "extracted_images/page_16_img_2.png",
         "answer": "B"
     },
     {
@@ -1256,7 +1256,7 @@
             "C": "Hydraulic shock absorber | हाइ र चलक  र्ॉक  \nएब्‍ जायबर",
             "D": "Load adjustable shock absorber | ल   \nएज‍ जस्‍ टेबल र्ॉक  एब्‍ जायबर"
         },
-        "image": "extracted_images\\page_16_img_3.png",
+        "image": "extracted_images/page_16_img_3.png",
         "answer": "B"
     },
     {
@@ -1268,7 +1268,7 @@
             "C": "Telescopic type shock absorber | \nटैचलस्‍ क चपक  टाइप  र्ॉक  एब्‍ जायबर",
             "D": "Piston type shock absorber | चपस्‍ टन टाइप  \nर्ॉक  एब्‍ जायबर"
         },
-        "image": "extracted_images\\page_16_img_4.png",
+        "image": "extracted_images/page_16_img_4.png",
         "answer": "A"
     },
     {
@@ -1280,7 +1280,7 @@
             "C": "Telescopic type | टैचलस्‍ क चपक  टाइप",
             "D": "Mechan ical type | मक ै चनकल  टाइप"
         },
-        "image": "extracted_images\\page_16_img_5.png",
+        "image": "extracted_images/page_16_img_5.png",
         "answer": "C"
     },
     {
@@ -1292,7 +1292,7 @@
             "C": "Vehicle frame | व्‍ हीक्‍ ल फ्र े म",
             "D": "Axle | एक्‍  ल"
         },
-        "image": "extracted_images\\page_17_img_2.png",
+        "image": "extracted_images/page_17_img_2.png",
         "answer": "B"
     },
     {
@@ -1316,7 +1316,7 @@
             "C": "Shock absorber | र्ॉक  एक्‍ जायबर",
             "D": "Axle mounting bracket | एक्‍  ल माउस्प्टिंग  \nब्रेचरट"
         },
-        "image": "extracted_images\\page_17_img_3.png",
+        "image": "extracted_images/page_17_img_3.png",
         "answer": "C"
     },
     {
@@ -1328,7 +1328,7 @@
             "C": "Front air spring suspension | प्रान्‍‍ ट  एयर स्प्रिंग  \n िंस्‍ पेंर्न",
             "D": "Rigid axle suspension system | ररचज  चटक्‍  ल \n िंस्‍ पेंर्न च स्‍ टम"
         },
-        "image": "extracted_images\\page_17_img_4.png",
+        "image": "extracted_images/page_17_img_4.png",
         "answer": "B"
     },
     {
@@ -1340,7 +1340,7 @@
             "C": "Piston | चपस्‍ टन",
             "D": "Spring attaching clip | स्प्रिंग  जु ी  क्‍ लीप"
         },
-        "image": "extracted_images\\page_17_img_5.png",
+        "image": "extracted_images/page_17_img_5.png",
         "answer": "C"
     },
     {
@@ -1352,7 +1352,7 @@
             "C": "Independent suspension system | इस्प्िपेन्‍‍  ेन्‍‍ ट \n िंस्‍ पेंर्न च स्‍ टम",
             "D": "Coil spring suspension system | क्‍ वायल स्प्रिंग  \n िंस्‍ पेंर्न च स्‍ टम"
         },
-        "image": "extracted_images\\page_18_img_2.png",
+        "image": "extracted_images/page_18_img_2.png",
         "answer": "B"
     },
     {
@@ -1364,7 +1364,7 @@
             "C": "Pressure sensor | दबाव   ेंर्र",
             "D": "Beading edge | बीच िंग  एज"
         },
-        "image": "extracted_images\\page_18_img_3.png",
+        "image": "extracted_images/page_18_img_3.png",
         "answer": "C"
     },
     {
@@ -1436,7 +1436,7 @@
             "C": "Tube | टयूब",
             "D": "Hub | हब"
         },
-        "image": "extracted_images\\page_19_img_2.png",
+        "image": "extracted_images/page_19_img_2.png",
         "answer": "D"
     },
     {
@@ -1448,7 +1448,7 @@
             "C": "Rim projection | ररम प्रक्षेपण (projection)",
             "D": "Rim outer edge | ररम का बाहरी  चहस्‍  ा"
         },
-        "image": "extracted_images\\page_19_img_3.png",
+        "image": "extracted_images/page_19_img_3.png",
         "answer": "B"
     },
     {
@@ -1472,7 +1472,7 @@
             "C": "Heavy v ehicle wheel | भारी  वाहन  व्‍ हील",
             "D": "Wire wheel | वायर  व्‍ हील"
         },
-        "image": "extracted_images\\page_19_img_4.png",
+        "image": "extracted_images/page_19_img_4.png",
         "answer": "D"
     },
     {
@@ -1484,7 +1484,7 @@
             "C": "Split wheel | स्प्पचलट  व्‍ हील",
             "D": "Heavy vehicle wheel | भारी  वाहन  व्‍ हील"
         },
-        "image": "extracted_images\\page_19_img_5.png",
+        "image": "extracted_images/page_19_img_5.png",
         "answer": "B"
     },
     {
@@ -1496,7 +1496,7 @@
             "C": "Checking kingpin inclination | चक िं ग  चपन \nइन्‍‍ कलीनेर्न  क  िैक करना",
             "D": "Checking included angle | इन्‍‍ क्‍ ल्‍ यू  क ण  क  \nिैक करना"
         },
-        "image": "extracted_images\\page_19_img_6.png",
+        "image": "extracted_images/page_19_img_6.png",
         "answer": "A"
     },
     {
@@ -1545,7 +1545,7 @@
             "D": "Number of components are less | पाटय  की \n िंख्‍ या  कम ह ना"
         },
         "image": null,
-        "answer": null
+        "answer": "B"
     },
     {
         "number": 135,
@@ -2132,7 +2132,7 @@
             "C": "Feather edge | खराब  चकनारे",
             "D": "Bold spots wear |  ाि  धब्‍ बा  चघ ावट"
         },
-        "image": "extracted_images\\page_26_img_2.png",
+        "image": "extracted_images/page_26_img_2.png",
         "answer": "D"
     },
     {
@@ -2144,7 +2144,7 @@
             "C": "Feather edge | खराब  चकनारे",
             "D": "Wear on oneside | एक तरि   े चघ ावट"
         },
-        "image": "extracted_images\\page_26_img_3.png",
+        "image": "extracted_images/page_26_img_3.png",
         "answer": "C"
     },
     {
@@ -2288,7 +2288,7 @@
             "C": "Vacuum assisted power brakes | वेक्‍ यूम \nएच स्प्स्ट  पावर  ब्रेक",
             "D": "Electro hydraulic brake system | \nइल्‍ कटर हाइ र चलक  ब्रेक च स्‍ टम"
         },
-        "image": "extracted_images\\page_28_img_2.png",
+        "image": "extracted_images/page_28_img_2.png",
         "answer": "C"
     },
     {
@@ -2300,7 +2300,7 @@
             "C": "Reservoir | ररजवीयर",
             "D": "Piston | चपस्‍ टन"
         },
-        "image": "extracted_images\\page_28_img_3.png",
+        "image": "extracted_images/page_28_img_3.png",
         "answer": "A"
     },
     {
@@ -2312,8 +2312,8 @@
             "C": "Tank type master cylinder | टैंक टाइप  मास्‍ टर \nच लेण्‍  र",
             "D": "Centre feed master cylinder |  ेंटर  िी  \nमास्‍ टर च लेण्‍  र"
         },
-        "image": "extracted_images\\page_28_img_4.png",
-        "answer": null
+        "image": "extracted_images/page_28_img_4.png",
+        "answer": "B"
     },
     {
         "number": 200,
@@ -2324,7 +2324,7 @@
             "C": "Pedal | पै ल",
             "D": "Push rod | पुर् र"
         },
-        "image": "extracted_images\\page_28_img_5.png",
+        "image": "extracted_images/page_28_img_5.png",
         "answer": "A"
     },
     {
@@ -2336,7 +2336,7 @@
             "C": "Tank type master cylinder | टैंक टाइप  मास्‍ टर \nच लेण्‍  र",
             "D": "Single barrel master cylinder | च गिंल  बैरल  \nमास्‍ टर च लेण्‍  र"
         },
-        "image": "extracted_images\\page_28_img_6.png",
+        "image": "extracted_images/page_28_img_6.png",
         "answer": "D"
     },
     {
@@ -2360,7 +2360,7 @@
             "C": "Pedal return spring | पै ल  ररटयन  स्प्रिंग",
             "D": "Brake pedal | ब्रेक पै ल"
         },
-        "image": "extracted_images\\page_29_img_2.png",
+        "image": "extracted_images/page_29_img_2.png",
         "answer": "B"
     },
     {
@@ -2372,7 +2372,7 @@
             "C": "Disc brake | च स्‍ क  ब्रेक",
             "D": "Hydraulic brake | हाइ र चलक  ब्रेक"
         },
-        "image": "extracted_images\\page_29_img_3.png",
+        "image": "extracted_images/page_29_img_3.png",
         "answer": "C"
     },
     {
@@ -2384,7 +2384,7 @@
             "C": "Air brake | एयर ब्रेक",
             "D": "Hydraulic brake | हाइ र चलक  ब्रेक"
         },
-        "image": "extracted_images\\page_29_img_4.png",
+        "image": "extracted_images/page_29_img_4.png",
         "answer": "B"
     },
     {
@@ -2420,7 +2420,7 @@
             "C": "Slack adjuster | स्‍ लेक ए जस्‍ ट",
             "D": "Pressure realse  valve | प्रैर्र  रीचलज  वाल्‍ व"
         },
-        "image": "extracted_images\\page_30_img_2.png",
+        "image": "extracted_images/page_30_img_2.png",
         "answer": "B"
     },
     {
@@ -2432,7 +2432,7 @@
             "C": "Brake chamber | ब्रेक िैम्‍ बर",
             "D": "Un loader valve | अनल  र  वाल्‍ व"
         },
-        "image": "extracted_images\\page_30_img_3.png",
+        "image": "extracted_images/page_30_img_3.png",
         "answer": "B"
     },
     {
@@ -2444,7 +2444,7 @@
             "C": "Brake drum | ब्रेक  रम",
             "D": "Cam roller | क ै म रौलर"
         },
-        "image": "extracted_images\\page_30_img_4.png",
+        "image": "extracted_images/page_30_img_4.png",
         "answer": "D"
     },
     {
@@ -2456,7 +2456,7 @@
             "C": "Serrated wheel brake adjuster | अलग -अलग  \nव्‍ हील ब्रेक ए स्‍ टर",
             "D": "Snail and cam type adjuster | स्‍ नेल और क ै म \nटाइप  ए स्‍ टर"
         },
-        "image": "extracted_images\\page_30_img_5.png",
+        "image": "extracted_images/page_30_img_5.png",
         "answer": "C"
     },
     {
@@ -2516,7 +2516,7 @@
             "C": "Double piston with step bore |  बल  चपस्‍ टन \nस्‍ टेप ब र के  ाथ",
             "D": "Baffle type piston wheel cylinder | बैिल  \nटाइप  चपस्‍ टन व्‍ हील च लेण्‍  र"
         },
-        "image": "extracted_images\\page_31_img_2.png",
+        "image": "extracted_images/page_31_img_2.png",
         "answer": "B"
     },
     {
@@ -2540,7 +2540,7 @@
             "C": "Back plate | बेक प्‍ लेट",
             "D": "Shoe hold do wen pin | र्ू ह ल्‍    ावल  चपन"
         },
-        "image": "extracted_images\\page_31_img_3.png",
+        "image": "extracted_images/page_31_img_3.png",
         "answer": "C"
     },
     {
@@ -2552,7 +2552,7 @@
             "C": "Multiplier type brake | मल्‍ टीप्‍ लायर टाइप  ब्रेक",
             "D": "Pedal assisted type brake | पै ल  एच स्प्स्ट"
         },
-        "image": "extracted_images\\page_31_img_4.png",
+        "image": "extracted_images/page_31_img_4.png",
         "answer": "B"
     },
     {
@@ -2564,7 +2564,7 @@
             "C": "Pedal assisted type | पै ल  एच स्प्स्ट  टाइप",
             "D": "Air assisted power brakes | एपर एच स्प्स्ट  \nपावर  \n \n\nMechanic Motor Vehicle - 2 Year - Module 3 - Brake system  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 32 of 66"
         },
-        "image": "extracted_images\\page_31_img_5.png",
+        "image": "extracted_images/page_31_img_5.png",
         "answer": "C"
     },
     {
@@ -2576,7 +2576,7 @@
             "C": "Vacuum control valve | वेक्‍ यूम कन्‍‍ टर ल वाल्‍ व",
             "D": "Brake pedal linkage | ब्रेक पै ल  चलिंक े ज"
         },
-        "image": "extracted_images\\page_32_img_2.png",
+        "image": "extracted_images/page_32_img_2.png",
         "answer": "C"
     },
     {
@@ -2792,7 +2792,7 @@
             "C": "Narrow road | तिंग रास्‍ ता",
             "D": "Road widens | िौ ा  रास्‍ ता"
         },
-        "image": "extracted_images\\page_34_img_2.png",
+        "image": "extracted_images/page_34_img_2.png",
         "answer": "B"
     },
     {
@@ -2816,7 +2816,7 @@
             "C": "Speed limit and vehicle control signs | स्‍ पी  \n ीमा  और व्‍ हीकल क िं टर ल   क ें त",
             "D": "Caustionery sign | िेतावनी  देने वाले  िंक े त"
         },
-        "image": "extracted_images\\page_34_img_3.png",
+        "image": "extracted_images/page_34_img_3.png",
         "answer": "C"
     },
     {
@@ -2828,7 +2828,7 @@
             "C": "Traffic diversion | टरेचिक   ाइवयजन",
             "D": "Slippery road | , स्‍ लीपरी र"
         },
-        "image": "extracted_images\\page_35_img_2.png",
+        "image": "extracted_images/page_35_img_2.png",
         "answer": "A"
     },
     {
@@ -2840,7 +2840,7 @@
             "C": "Pedestrian crossing | पे स्प्स्टरयन  र च िंग",
             "D": "Cycle crossing |  ाईचकल"
         },
-        "image": "extracted_images\\page_35_img_3.png",
+        "image": "extracted_images/page_35_img_3.png",
         "answer": "C"
     },
     {
@@ -3152,7 +3152,7 @@
             "C": "Intake manifold | इनटेक  मेचनि ल्‍",
             "D": "Injectors | इिंजेक्‍ टर"
         },
-        "image": "extracted_images\\page_39_img_2",
+        "image": "extracted_images/page_39_img_2",
         "answer": "C"
     },
     {
@@ -3164,7 +3164,7 @@
             "C": "Pressure regulator | प्रेर्र  रेगुलेटर",
             "D": "Electronic control unit | इलेक्‍ टर चनक  क िं टर ल  \nयुचनट"
         },
-        "image": "extracted_images\\page_39_img_3",
+        "image": "extracted_images/age_39_img_3",
         "answer": "B"
     },
     {
@@ -3200,7 +3200,7 @@
             "C": "Condenser | कन्‍‍  ें र",
             "D": "Contact breaker | कानटेक्‍ ट  ब्रेकर"
         },
-        "image": "extracted_images\\page_39_img_4",
+        "image": "extracted_images/page_39_img_4",
         "answer": "C"
     },
     {
@@ -3212,7 +3212,7 @@
             "C": "Backlite cap | वैकलाईट  क े प",
             "D": "Secondary cap |  ेक्‍ िं री क े प"
         },
-        "image": "extracted_images\\page_39_img_5",
+        "image": "extracted_images/page_39_img_5",
         "answer": "A"
     },
     {
@@ -3236,7 +3236,7 @@
             "C": "Temperature sensor | टेम्‍ परेिर  ें र",
             "D": "Hall effect sensor | हाल इि े क्‍ ट   ें र"
         },
-        "image": "extracted_images\\page_40_img_2",
+        "image": "extracted_images/page_40_img_2",
         "answer": "A"
     },
     {
@@ -3248,7 +3248,7 @@
             "C": "Blind spot sensor | बलाईिं  स्‍ पॉट  ें र",
             "D": "Air vertex sensor | एयर वरटेक्‍    ें र"
         },
-        "image": "extracted_images\\page_40_img_3",
+        "image": "extracted_images/page_40_img_3",
         "answer": "B"
     },
     {
@@ -3260,7 +3260,7 @@
             "C": "Angle gauge | एिंगल  गैज",
             "D": "Plug gauge | प्लग गैज"
         },
-        "image": "extracted_images\\page_40_img_4",
+        "image": "extracted_images/page_40_img_4",
         "answer": "B"
     },
     {
@@ -3272,7 +3272,7 @@
             "C": "Crank sha ft position sensor | र ें क  र्ाफ्ट  \nप चजर्न   ें र",
             "D": "Magnetic induction sensor | मेगनेचटक  \nइिं क्‍ र्न  ें र"
         },
-        "image": "extracted_images\\page_40_img_5",
+        "image": "extracted_images/page_40_img_5",
         "answer": "C"
     },
     {
@@ -3284,7 +3284,7 @@
             "C": "Crank shaft position sensor | र ें क  र्ाफ्ट  \nप चजर्न   ें र",
             "D": "Pressure sensor | प्रेर्र   ें र  \n \n\nMechanic Motor Vehicle - 2 Year -  Module 5 - Electronic Control System  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 41 of 66"
         },
-        "image": "extracted_images\\page_40_img_6",
+        "image": "extracted_images/page_40_img_6",
         "answer": "D"
     },
     {
@@ -3296,7 +3296,7 @@
             "C": "Throtte position sensor | थ्र टल  प चजर्न   ें र",
             "D": "Magnetic induction sensor | मेगनेचटक  \nइिं क्‍ र्न  ें र"
         },
-        "image": "extracted_images\\page_41_img_2",
+        "image": "extracted_images/page_41_img_2",
         "answer": "B"
     },
     {
@@ -3308,7 +3308,7 @@
             "C": "Insulator | इिं ुलेटर",
             "D": "Centre electrode |  ेंटर  इलेक्‍ टर"
         },
-        "image": "extracted_images\\page_41_img_3",
+        "image": "extracted_images/page_41_img_3",
         "answer": "C"
     },
     {
@@ -3318,7 +3318,7 @@
             "A": "2.83 mm",
             "B": "2.03 mm",
             "C": "2.53 mm",
-            "D": "2.92 mm  \n 285  : Wha t is the name of part marked as ‘X’ in \nthe distributor? | च स्‍ टरीब्‍ यूटर में ´X´ चनर्ान  वाले पाटय \nका क्‍ या नाम है ? \n \nA : Rotor | र टर  \nB :  Condensor | क िं  े र  \nC :  Distributor cap | च स्‍ टरीब्‍ यूटर क ै प \nD : Cam | क ै म"
+            "D": "2.92 mm" 
         },
         "image": null,
         "answer": "B"
@@ -3332,7 +3332,7 @@
             "C": "Distributor shaft | च स्‍ टरीब्‍ यूटर र्ाफ्ट",
             "D": "Breaker plate | ब्रेकर  प्‍ लेट"
         },
-        "image": "extracted_images\\page_41_img_5",
+        "image": "extracted_images/page_41_img_5",
         "answer": "C"
     },
     {
@@ -3344,7 +3344,7 @@
             "C": "Breaker plate | ब्रेकर  प्‍ लेट",
             "D": "Distributor | च स्‍ टरीब्‍ यूटर"
         },
-        "image": "extracted_images\\page_42_img_2",
+        "image": "extracted_images/page_42_img_2",
         "answer": "B"
     },
     {
@@ -3704,7 +3704,7 @@
             "C": "Solenoid switch |   लेनाय  स्प्स्वि",
             "D": "Starting motor | स्‍ टायचटिंग म टर"
         },
-        "image": "extracted_images\\page_46_img_2",
+        "image": "extracted_images/page_46_img_2",
         "answer": "D"
     },
     {
@@ -3716,7 +3716,7 @@
             "C": "Starter switch | स्‍ टायटर स्प्स्वि",
             "D": "Startor motor | स्‍ टायटर म टर"
         },
-        "image": "extracted_images\\page_46_img_3",
+        "image": "extracted_images/page_46_img_3",
         "answer": "B"
     },
     {
@@ -3728,7 +3728,7 @@
             "C": "Overrunning clutch drive | ओवर  रचनिंग  क्‍ लि \n राईव",
             "D": "Sliding clutch drive  \n| स्‍ लाईच िंग  क्‍ लि  राईव"
         },
-        "image": "extracted_images\\page_46_img_4",
+        "image": "extracted_images/page_46_img_4",
         "answer": "B"
     },
     {
@@ -3752,7 +3752,7 @@
             "C": "Compound type | कम्‍ पाउन्‍‍   टाईप",
             "D": "Shunt type |  िंट टाईप"
         },
-        "image": "extracted_images\\page_47_img_2",
+        "image": "extracted_images/page_47_img_2",
         "answer": "D"
     },
     {
@@ -3764,7 +3764,7 @@
             "C": "Pull in winding | पुल इन वाईिंच िंग",
             "D": "Iron plunger | आईरन  पिंलजर"
         },
-        "image": "extracted_images\\page_47_img_3",
+        "image": "extracted_images/page_47_img_3",
         "answer": "C"
     },
     {
@@ -3776,7 +3776,7 @@
             "C": "Sliding armature type | स्‍ लाईच िंग  आमेिर  टाईप",
             "D": "Radial sliding armature type | रेच यल  \nस्‍ लाईच िंग  आमेिर  टाईप"
         },
-        "image": "extracted_images\\page_47_img_4",
+        "image": "extracted_images/page_47_img_4",
         "answer": "A"
     },
     {
@@ -3788,7 +3788,7 @@
             "C": "Armature shaft | आमेिर  र्ाफ्ट",
             "D": "Fly wheel | फ्लाई  व्‍ हील"
         },
-        "image": "extracted_images\\page_47_img_5",
+        "image": "extracted_images/page_47_img_5",
         "answer": "B"
     },
     {
@@ -3800,7 +3800,7 @@
             "C": "Pinion | चपचनयन",
             "D": "Fly wheel ring gear | फ्लाई  व्‍ हील ररिंग चगयर"
         },
-        "image": "extracted_images\\page_47_img_6",
+        "image": "extracted_images/page_47_img_6",
         "answer": "B"
     },
     {
@@ -3812,7 +3812,7 @@
             "C": "Pinion gear | चपचनयन  चगयर",
             "D": "Over running clutch | ओवर  रचनिंग  क्‍ लि"
         },
-        "image": "extracted_images\\page_48_img_2",
+        "image": "extracted_images/page_48_img_2",
         "answer": "D"
     },
     {
@@ -3824,7 +3824,7 @@
             "C": "Shunt type |  िंट टाईप",
             "D": "Compound type | कम्‍ पाऊ ँ   टाईप"
         },
-        "image": "extracted_images\\page_48_img_3",
+        "image": "extracted_images/page_48_img_3",
         "answer": "D"
     },
     {
@@ -3836,7 +3836,7 @@
             "C": "Battery | बैटरी",
             "D": "Starter switch | स्‍ टायटर स्प्स्वि"
         },
-        "image": "extracted_images\\page_48_img_4",
+        "image": "extracted_images/page_48_img_4",
         "answer": "B"
     },
     {
@@ -3848,7 +3848,7 @@
             "C": "Commu tator | कम्‍ युटेटर",
             "D": "Drive end bracket |  राईव  एण्‍   ब्रेक े ट"
         },
-        "image": "extracted_images\\page_48_img_5",
+        "image": "extracted_images/page_48_img_5",
         "answer": "C"
     },
     {
@@ -3860,7 +3860,7 @@
             "C": "Commutator | कम्‍ युटेटर",
             "D": "Drive end bracket |  राईव  एण्‍   ब्रेक े ट"
         },
-        "image": "extracted_images\\page_48_img_6",
+        "image": "extracted_images/page_48_img_6",
         "answer": "B"
     },
     {
@@ -3884,7 +3884,7 @@
             "C": "Ignition coil | इचिर्न  क्‍ वाईल",
             "D": "Condensor | क िं  ेन्‍‍  र"
         },
-        "image": "extracted_images\\page_49_img_2",
+        "image": "extracted_images/page_49_img_2",
         "answer": "A"
     },
     {
@@ -3896,7 +3896,7 @@
             "C": "Slip ring | स्प्िप  ररिंग",
             "D": "Field  coil | चिल्‍   क्‍ वाईल"
         },
-        "image": "extracted_images\\page_49_img_3",
+        "image": "extracted_images/page_49_img_3",
         "answer": "C"
     },
     {
@@ -4244,7 +4244,7 @@
             "C": "Flasher unit | फ्लेर्र  युचनट",
             "D": "Flasher lamps | फ्लेर्र  लेम्‍ प"
         },
-        "image": "extracted_images\\page_53_img_2",
+        "image": "extracted_images/page_53_img_2",
         "answer": "C"
     },
     {
@@ -4256,7 +4256,7 @@
             "C": "LED head light | LED है  लाईट",
             "D": "Double filament head light |  बल  चिलामेंट  \nहे  लाईट"
         },
-        "image": "extracted_images\\page_53_img_3",
+        "image": "extracted_images/page_53_img_3",
         "answer": "B"
     },
     {
@@ -4292,7 +4292,7 @@
             "C": "Parking light | पाचक िं ग  लाईट",
             "D": "Sealed beam head light |  ील्‍   वीम है  लाईट"
         },
-        "image": "extracted_images\\page_53_img_4",
+        "image": "extracted_images/page_53_img_4",
         "answer": "D"
     },
     {
@@ -4472,7 +4472,7 @@
             "C": "Receiver | रर ीवर",
             "D": "Evaporator | इवेप रेटर"
         },
-        "image": "extracted_images\\page_56_img_2",
+        "image": "extracted_images/page_56_img_2",
         "answer": "A"
     },
     {
@@ -4484,7 +4484,7 @@
             "C": "Receiver | रर ीवर",
             "D": "Expansion valve | एक्‍  पेंर्न  वाल्‍ व"
         },
-        "image": "extracted_images\\page_56_img_3",
+        "image": "extracted_images/page_56_img_3",
         "answer": "A"
     },
     {
@@ -4496,7 +4496,7 @@
             "C": "Condenser | कन्‍‍  ें र",
             "D": "Blower | ब्‍ ल अर"
         },
-        "image": "extracted_images\\page_56_img_4",
+        "image": "extracted_images/page_56_img_4",
         "answer": "C"
     },
     {
@@ -4508,7 +4508,7 @@
             "C": "Blower | ब्ल यर",
             "D": "Expansion valve | एक्‍  पेंर्न  वाल्‍ व"
         },
-        "image": "extracted_images\\page_56_img_5",
+        "image": "extracted_images/page_56_img_5",
         "answer": "D"
     },
     {
@@ -4520,7 +4520,7 @@
             "C": "Expansion valve | एक्‍  पेंर्न  वाल्‍ व",
             "D": "Servo mo tor |  वो म टर"
         },
-        "image": "extracted_images\\page_56_img_6",
+        "image": "extracted_images/page_56_img_6",
         "answer": "B"
     },
     {
@@ -4556,7 +4556,7 @@
             "C": "Ambient temperature sensor | एस्प्िएिंट  \nटेम्‍ परेिर  ें र",
             "D": "Evaporator | इवेप रेटर"
         },
-        "image": "extracted_images\\page_57_img_2",
+        "image": "extracted_images/page_57_img_2",
         "answer": "C"
     },
     {
@@ -4604,7 +4604,7 @@
             "C": "Wat er valve heating system | वाटर  वाल्‍ व  \nहीचटिंग  च स्‍ टम",
             "D": "Automatic climatate control system | \nऑट मैचटक  क्‍ लाईमेट  क िं टर ल  च स्‍ टम"
         },
-        "image": "extracted_images\\page_57_img_3",
+        "image": "extracted_images/page_57_img_3",
         "answer": "C"
     },
     {
@@ -4616,7 +4616,7 @@
             "C": "Demister |  ेचमस्‍ टर",
             "D": "Matrix | मैचटरक्‍"
         },
-        "image": "extracted_images\\page_56_img_4",
+        "image": "extracted_images/page_56_img_4",
         "answer": "C"
     },
     {
@@ -4748,7 +4748,7 @@
             "C": "Horn relay | हॉनय ररले",
             "D": "Fuse | फ्यूज"
         },
-        "image": "extracted_images\\page_60_img_2",
+        "image": "extracted_images/page_60_img_2",
         "answer": "B"
     },
     {
@@ -4760,7 +4760,7 @@
             "C": "Electric horn | इलेस्प्ररक  हॉनय (चवदि्युत  हॉनय)",
             "D": "Wind horn | चविं  हॉनय"
         },
-        "image": "extracted_images\\page_60_img_3",
+        "image": "extracted_images/page_60_img_3",
         "answer": "A"
     },
     {
@@ -4772,7 +4772,7 @@
             "C": "Elect ric horn | इलेस्प्ररक  हॉनय",
             "D": "Horn relay | हॉनय ररले"
         },
-        "image": "extracted_images\\page_60_img_4",
+        "image": "extracted_images/page_60_img_4",
         "answer": "C"
     },
     {
@@ -4796,7 +4796,7 @@
             "C": "Interior temperature sensor | इिंटीररयर  \nटेम्‍ परेिर  ें र  (आिंतररक  तापमान   ें र )",
             "D": "Infrared sensor | इन्‍‍ फ्रारे   ें र"
         },
-        "image": "extracted_images\\page_60_img_5",
+        "image": "extracted_images/page_60_img_5",
         "answer": "A"
     },
     {
@@ -4808,7 +4808,7 @@
             "C": "Steering column | स्‍ टीयररिंग  कॉलम",
             "D": "Steering wheel | स्‍ टीयररिंग  व्‍ हील"
         },
-        "image": "extracted_images\\page_61_img_2",
+        "image": "extracted_images/page_61_img_2",
         "answer": "C"
     },
     {
@@ -4832,7 +4832,7 @@
             "C": "Contact breaker | काटार  ब्रेकर",
             "D": "Diaphragm |  याफ्राम"
         },
-        "image": "extracted_images\\page_61_img_3",
+        "image": "extracted_images/page_61_img_3",
         "answer": "B"
     },
     {
@@ -4844,7 +4844,7 @@
             "C": "Vibrating type horn | वाईब्रेचटिंग  टाईप  हॉनय",
             "D": "Wind tone type horn | चविं  ट न टाईप  हॉनय"
         },
-        "image": "extracted_images\\page_60_img_4",
+        "image": "extracted_images/page_60_img_4",
         "answer": "A"
     },
     {
