@@ -119,156 +119,125 @@
     "image": "extracted_images/page_2_img_5.jpeg",
     "answer": "D"
   },
-
-    {
+  {
     "number": 11,
-    "question": {
-      "english": "What are instruments used while inspecting pressure plate?",
-      "hindi": "प्रेशर प्लेट की जाँच करते समय उपयोग किए जाने वाले उपकरण कौन से हैं?"
-    },
+    "question": "What are instruments used while inspecting \npressure plate? | प्रैर्र  प्‍ लेट की जािंि के चलए कौन   े \nउपकरण  का प्रय ग  चकया  जाता  है ?",
     "options": {
-      "A": { "english": "Straight edge and feeler gauge", "hindi": "स्ट्रेट एज और फीलर गेज" },
-      "B": { "english": "Steel rule and angle gauge", "hindi": "स्टील रूल और एंगल गेज" },
-      "C": { "english": "Straight edge and slip gauge", "hindi": "स्ट्रेट एज और स्लिप गेज" },
-      "D": { "english": "Parallel block and radious gauge", "hindi": "पैरेलल ब्लॉक और रेडियस गेज" }
+      "A": "Straight edge and feeler gauge | स्‍ टरेट एज और \nचिलर  गेज",
+      "B": "Steel rule and angle gauge | स्‍ टील रूल और \nएिंगल  गेज",
+      "C": "Straight edge and slip gauge | स्‍ टरेट एज और \nस्‍ लीप गेज",
+      "D": "Parallel block and radious gauge | पेरेलल  \nब्‍ लॉक और रेच यिं  गेज"
     },
-    "answer": "A",
-    "image": "extracted_images/page_2_img_6.jpeg"
+    "image": "extracted_images/page_2_img_6.jpeg",
+    "answer": "A"
   },
   {
     "number": 12,
-    "question": {
-      "english": "What is the name of tool marked as ‘X’ in the clutch aligning assembly work?",
-      "hindi": "क्लच अलाइनिंग असेंबली कार्य में 'X' द्वारा दर्शाए गए उपकरण का क्या नाम है?"
-    },
+    "question": "What is the name of tool marked as ‘X’ in \nthe clutch aligning assembly work? | क्‍ लि एलाइिंग  \nए ेम्‍ बली कायय  में ´X´ दर्ायए  गए उपकरण  का क्‍ या नाम है ?",
     "options": {
-      "A": { "english": "Straight edge", "hindi": "स्ट्रेट एज" },
-      "B": { "english": "Parallel block", "hindi": "पैरेलल ब्लॉक" },
-      "C": { "english": "Clutch aligner", "hindi": "क्लच अलाइनर" },
-      "D": { "english": "Cylindrical drift", "hindi": "सिलिंड्रिकल ड्रिफ्ट" }
+      "A": "Straight edge | स्‍ टरेट एज",
+      "B": "Parallel block | पेरेलल  ब्‍ लॉक",
+      "C": "Clutch aligner | क्‍ लि एलािंइनर",
+      "D": "Cylindrical drift | च लेण्‍  रीक्‍ ल  च रफ्ट"
     },
-    "answer": "C",
-    "image": "extracted_images/page_3_img_2.jpeg"
+    "image": "extracted_images/page_3_img_2.jpeg",
+    "answer": "C"
   },
   {
     "number": 13,
-    "question": {
-      "english": "What is the name of instrument marked ‘X’ in the fly wheel run out check?",
-      "hindi": "फ्लाईव्हील रनआउट की जाँच में 'X' द्वारा दर्शाए गए उपकरण का नाम क्या है?"
-    },
+    "question": "What is the name of instrument marked ‘X’ \nin the fly wheel run out check? | फ्लाई  व्‍ हील रन \nआऊट  िैक करने  के चलए ´X´ चिन्‍‍ ह  द्वारा दर्ायए  गए \nउपकरण  का नाम क्‍ या है ?",
     "options": {
-      "A": { "english": "Outside micrometer", "hindi": "आउटसाइड माइक्रोमीटर" },
-      "B": { "english": "Dial test indicator", "hindi": "डायल टेस्ट इंडिकेटर" },
-      "C": { "english": "Inside micrometer", "hindi": "इनसाइड माइक्रोमीटर" },
-      "D": { "english": "Bore dial gauge", "hindi": "बोर डायल गेज" }
+      "A": "Outside micrometer | आऊट  ाइ  \nमाइर मीटर",
+      "B": "Dial test indicator |  ापल  टेस्‍ ट इस्प्िक े टर",
+      "C": "Inside micrometer | इन  ाइ  माइर मीटर",
+      "D": "Bore dial gauge |  ायल  ब र गेज"
     },
-    "answer": "B",
-    "image": "extracted_images/page_3_img_3.jpeg"
+    "image": "extracted_images/page_3_img_3.jpeg",
+    "answer": "B"
   },
   {
     "number": 14,
-    "question": {
-      "english": "What is the name of seal marked as ‘X’ in the servo piston?",
-      "hindi": "सर्वो पिस्टन में 'X' द्वारा दर्शाए गए सील का क्या नाम है?"
-    },
+    "question": "What is the name of seal marked as ‘X’ in \nthe servo piston? | चनम्‍ न  चित्र  वो चपस्‍ टन में ´X´ दर्ायए \nगए  ील  का क्‍ या है ?",
     "options": {
-      "A": { "english": "Square cut seal", "hindi": "स्क्वायर कट सील" },
-      "B": { "english": "Metal sealing ring", "hindi": "मेटल सीलिंग रिंग" },
-      "C": { "english": "Lip seal", "hindi": "लिप सील" },
-      "D": { "english": "Teflow seal", "hindi": "टेफ्लॉन सील" }
+      "A": "Square cut seal | िकौर  कट  ील",
+      "B": "Metal sealing ring | धातु च चलिंग  ररग",
+      "C": "Lip seal | चलप  ील",
+      "D": "Teflow seal | टेफ्ल   ील"
     },
-    "answer": "C",
-    "image": "extracted_images/page_3_img_4.jpeg"
+    "image": "extracted_images/page_3_img_4.jpeg",
+    "answer": "C"
   },
   {
     "number": 15,
-    "question": {
-      "english": "What is the name of gearbox?",
-      "hindi": "दर्शाए गए चित्र में किस प्रकार का गियरबॉक्स है?"
-    },
+    "question": "What is the name of gearbox? | चनम्‍ न  चित्र में \nकौन   ा चगयर  पेपर है ?",
     "options": {
-      "A": { "english": "Constant mesh gear box", "hindi": "कॉन्स्टेंट मेश गियरबॉक्स" },
-      "B": { "english": "Sliding mesh gear box", "hindi": "स्लाइडिंग मेश गियरबॉक्स" },
-      "C": { "english": "Synchromesh gear box", "hindi": "सिंक्रोमेश गियरबॉक्स" },
-      "D": { "english": "Automatic synchromesh gear box", "hindi": "ऑटोमैटिक सिंक्रोमेश गियरबॉक्स" }
+      "A": "Constant mesh gear box | कौन्‍‍  टैन्‍‍ ट मैर् चगयर  \nबॉक्‍",
+      "B": "Sliding mesh gear box | स्‍ लाइच िंग  मैर् चगयर  \nबॉक्‍",
+      "C": "Synchromesh gear box | च न्‍‍ र मैर् चगयर  बॉक्‍",
+      "D": "Automatic synchromesh gear box | \nऑट मेचटक  स्‍ लाइच ग  चगयर  बॉक्‍"
     },
-    "answer": "A",
-    "image": "extracted_images/page_3_img_5.jpeg"
+    "image": "extracted_images/page_3_img_5.jpeg",
+    "answer": "A"
   },
   {
     "number": 16,
-    "question": {
-      "english": "What is the type of gear box?",
-      "hindi": "दर्शाए गए चित्र में किस प्रकार का गियरबॉक्स है?"
-    },
+    "question": "What is the type of gear box? | चनम्‍ न  चित्र में \nकौन   ा चगयर  बॉक्‍   है ?",
     "options": {
-      "A": { "english": "Constant mesh gear box", "hindi": "कॉन्स्टेंट मेश गियरबॉक्स" },
-      "B": { "english": "Sliding mesh gear box", "hindi": "स्लाइडिंग मेश गियरबॉक्स" },
-      "C": { "english": "Synchromesh gear box", "hindi": "सिंक्रोमेश गियरबॉक्स" },
-      "D": { "english": "Automatic sliding gear box", "hindi": "ऑटोमैटिक स्लाइडिंग गियरबॉक्स" }
+      "A": "Constant mesh gear box | कौन्‍‍  टैन्‍‍ ट मैर् चगयर  \nबॉक्‍ ",
+      "B": "Sliding mesh gear box | स्‍ लाइच िंग  मैर् चगयर  \nबॉक्‍",
+      "C": "Synchromesh gear box | च न्‍‍ र मैर् चगयर  बॉक्‍",
+      "D": "Automatic sliding gear box | ऑट मेचटक  \nरूलाइच ि्ग  चगयर बॉक्‍"
     },
-    "answer": "B",
-    "image": "extracted_images/page_3_img_6.jpeg"
+    "image": "extracted_images/page_3_img_6.jpeg",
+    "answer": "B"
   },
   {
     "number": 17,
-    "question": {
-      "english": "Which instrument is used to check the face out of the fly wheel?",
-      "hindi": "फ्लाईव्हील के फेस आउट को जांचने के लिए किस उपकरण का उपयोग किया जाता है?"
-    },
+    "question": "Which instrument is used to check the face \nout of the fly wheel? | फ्लाई  व्‍ हील का ि े   आउट  िैक \nकरने  के चलए चक  उपकरण  का प्रय ग  चकया  जाता  है ?",
     "options": {
-      "A": { "english": "Dial indicator", "hindi": "डायल इंडिकेटर" },
-      "B": { "english": "Bore dial gauge", "hindi": "बोर डायल गेज" },
-      "C": { "english": "Outside micrometer", "hindi": "आउटसाइड माइक्रोमीटर" },
-      "D": { "english": "Inside micrometer", "hindi": "इनसाइड माइक्रोमीटर" }
+      "A": "Dial indicator |  ायल  इस्प्िक े टर",
+      "B": "Bore dial gauge | ब र  ायल  गेज",
+      "C": "Outside micrometer |  आऊट   ाइ  \nमाइर मीटर",
+      "D": "Inside micrometer | इन  ाइ  माइर मीटर"
     },
-    "answer": "A",
-    "image": null
+    "image": null,
+    "answer": "A"
   },
   {
     "number": 18,
-    "question": {
-      "english": "What is the permitted axial displacement of tripod joint?",
-      "hindi": "ट्राइपॉड जॉइंट की अनुमत अक्षीय विस्थापन (axial displacement) क्या है?"
-    },
+    "question": "What is the permitted axial displacement of \ntripod joint? | टरॉइप   ज‍ वािंइट अनुमचत  एक्‍  ल \nच स्‍ प्‍ ले मेन्‍‍ ट  क्‍ या है ?",
     "options": {
-      "A": { "english": "55 mm", "hindi": "55 मिमी" },
-      "B": { "english": "58 mm", "hindi": "58 मिमी" },
-      "C": { "english": "64 mm", "hindi": "64 मिमी" },
-      "D": { "english": "68 mm", "hindi": "68 मिमी" }
+      "A": "55 mm",
+      "B": "58 mm",
+      "C": "64 mm",
+      "D": "68 mm"
     },
-    "answer": "A",
-    "image": "extracted_images/page_4_img_2.jpeg"
+    "image": "extracted_images/page_4_img_2.jpeg",
+    "answer": "A"
   },
   {
     "number": 19,
-    "question": {
-      "english": "What is the permitted diffraction angle of tripod joint?",
-      "hindi": "ट्राइपॉड जॉइंट का अनुमत विक्षेपण कोण क्या है?"
-    },
+    "question": "What is  the permitted diffraction angle of \ntripod joint? | टरॉ    ज‍ वाइिंट अनुमचत  एिंगल  क्‍ या है ?",
     "options": {
-      "A": { "english": "13°", "hindi": "13°" },
-      "B": { "english": "18°", "hindi": "18°" },
-      "C": { "english": "26°", "hindi": "26°" },
-      "D": { "english": "32°", "hindi": "32°" }
+      "A": "13°",
+      "B": "18°",
+      "C": "26°",
+      "D": "32°"
     },
-    "answer": "C",
-    "image": null
+    "image": null,
+    "answer": "C"
   },
   {
     "number": 20,
-    "question": {
-      "english": "What is the type of constant velocity joint?",
-      "hindi": "दर्शाए गए चित्र में कौन सा प्रकार का कॉन्स्टेंट वेलोसिटी जॉइंट है?"
-    },
+    "question": "What is the type of constant velocity joint | \nचनम्‍ न  कौन   ी प्रकार  का कॉन्‍‍  टेन्‍‍ ट चवल च टी  ज‍ वािंइट है ?",
     "options": {
-      "A": { "english": "Pot joint", "hindi": "पॉट जॉइंट" },
-      "B": { "english": "Tripod joint", "hindi": "ट्राइपॉड जॉइंट" },
-      "C": { "english": "Ball joint", "hindi": "बॉल जॉइंट" },
-      "D": { "english": "Double joint", "hindi": "डबल जॉइंट" }
+      "A": "Pot jo int | प ट ज‍ वािंइट",
+      "B": "Tripod joint | टरॉइप   ज‍ वािंइट",
+      "C": "Ball joint | बाल ज‍ वािंइट",
+      "D": "Double joint |  बल  ज‍ वािंइट"
     },
-    "answer": "B",
-    "image": "extracted_images/page_4_img_3.jpeg"
+    "image": "extracted_images/page_4_img_3.jpeg",
+    "answer": "B"
   },
   {
     "number": 21,
