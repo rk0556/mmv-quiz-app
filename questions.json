@@ -126,7 +126,7 @@
       "A": "Straight edge and feeler gauge | स्‍ टरेट एज और \nचिलर  गेज",
       "B": "Steel rule and angle gauge | स्‍ टील रूल और \nएिंगल  गेज",
       "C": "Straight edge and slip gauge | स्‍ टरेट एज और \nस्‍ लीप गेज",
-      "D": "Parallel block and radious gauge | पेरेलल  \nब्‍ लॉक और रेच यिं  गेज \n\nMechanic Motor Vehicle - 2 Year - Module 1 : Transmission System  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 3 of 66"
+      "D": "Parallel block and radious gauge | पेरेलल  \nब्‍ लॉक और रेच यिं  गेज"
     },
     "image": "extracted_images/page_2_img_6.jpeg",
     "answer": "A"
@@ -183,7 +183,7 @@
     "number": 16,
     "question": "What is the type of gear box? | चनम्‍ न  चित्र में \nकौन   ा चगयर  बॉक्‍   है ?",
     "options": {
-      "A": "Constant mesh gear box | कौन्‍‍  टैन्‍‍ ट मैर् चगयर  \nबॉक्‍   \n\nMechanic Motor Vehicle - 2 Year - Module 1 : Transmission System  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 4 of 66",
+      "A": "Constant mesh gear box | कौन्‍‍  टैन्‍‍ ट मैर् चगयर  \nबॉक्‍ ",
       "B": "Sliding mesh gear box | स्‍ लाइच िंग  मैर् चगयर  \nबॉक्‍",
       "C": "Synchromesh gear box | च न्‍‍ र मैर् चगयर  बॉक्‍",
       "D": "Automatic sliding gear box | ऑट मेचटक  \nरूलाइच ि्ग  चगयर बॉक्‍"
@@ -270,7 +270,7 @@
       "A": "Baulk ring type | बल्‍ क  ररिंग टाइप",
       "B": "Baulk type | बल्‍ क  टाइप",
       "C": "Multi and double cone type | मल्‍ टी  और  बल  \nक न  टाइप",
-      "D": "Porche type | प िय टाइप  \n \n\nMechanic Motor Vehicle - 2 Year - Module 1 : Transmission System  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 5 of 66"
+      "D": "Porche type | प िय टाइप "
     },
     "image": "extracted_images/page_4_img_6.jpeg",
     "answer": "A"
@@ -306,11 +306,24 @@
       "A": "Double joint |  बल  ज‍ वािंइट",
       "B": "Ball joint | बाल ज‍ वािंइट",
       "C": "Pot joint | प ट ज‍ वािंइट",
-      "D": "Tripod joint | टरॉप   ज‍ वािंइट \n 27  : What is the type of constant velocity joint? \n| चनम्‍ न  चित्र में कौन   ी प्रकार  का ज‍ वाइिंट है ? \n \nA :  Tripod joint | बाल एिंव टरयूचनयन  टाइप  यूचनव यल  \nज‍ वािंइट \nB :  Ball joint | रा  टाईप  यूचनव यल  ज‍ वािंइट \nC : Pot joint | स्‍ लीप ज‍ वािंइट \nD : Double joint |  बल  ज‍ वािंइट"
+      "D": "Tripod joint | टरॉप   ज‍ वािंइट"
     },
     "image": "extracted_images/page_5_img_4.jpeg",
     "answer": "B"
   },
+
+  {
+   "number": 27,  
+   "question": "What is the type of constant velocity joint?| चनम्‍ न  चित्र में कौन   ी प्रकार  का ज‍ वाइिंट है ?", 
+   "options": {
+    "A":  "Tripod joint | बाल एिंव टरयूचनयन  टाइप  यूचनव यलज‍ वािंइट", 
+    "B":  "Ball joint | रा  टाईप  यूचनव यल  ज‍ वािंइट",
+    "C" : "Pot joint | स्‍ लीप ज‍ वािंइट",
+    "D" : "Double joint |  बल  ज‍ वािंइट"
+   },
+    "image": "extracted_images/page_5_img_5.jpeg",
+    "answer": "C"
+  },   
   {
     "number": 28,
     "question": "What is the type of joint? | चनम्‍ न  चित्र में कौन  \n ी प्रकार  का कान्‍‍  टेन्‍‍ ट चवल च टी  ज‍ वािंइट है ?",
@@ -330,7 +343,7 @@
       "A": "Torque tube drive | टॉक य  टयूब   राइव",
       "B": "Hotchkiss drive| ह िचक   राइव",
       "C": "Four wheel drive | ि र व्‍ हील  राइव",
-      "D": "Front wheel drive | फ्रन्‍‍ ट  व्‍ हील  राइव  \n \n\nMechanic Motor Vehicle - 2 Year - Module 1 : Transmission System  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 6 of 66"
+      "D": "Front wheel drive | फ्रन्‍‍ ट  व्‍ हील  राइव"
     },
     "image": "extracted_images/page_5_img_7.jpeg",
     "answer": "A"
@@ -450,7 +463,7 @@
       "A": "Static seal | स्प्स्थर   ील",
       "B": "Positive seal | प चजचटव   ील",
       "C": "Non - positive seal | नॉन प चजचटव   ील",
-      "D": "Dynamic seal |  ायनेचमक   ील \n\nMechanic Motor Vehicle - 2 Year - Module 1 : Transmission System  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 7 of 66"
+      "D": "Dynamic seal |  ायनेचमक   ील"
     },
     "image": null,
     "answer": "C"
@@ -555,7 +568,7 @@
     "number": 48,
     "question": "Which type of clutch provides more \nfrictional area and simple in construction? |  चक  \nप्रकार  का क्‍ लि अचधक  घर्यण  क्षेत्र देता है एिंव बनावट  में भी \n रल  ह ता  है ?",
     "options": {
-      "A": "Diaphragm spring clutch |  ायफ्राम  स्प्रिंग  क्‍ लि \n\nMechanic Motor Vehicle - 2 Year - Module 1 : Transmission System  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 8 of 66",
+      "A": "Diaphragm spring clutch |  ायफ्राम  स्प्रिंग  क्‍ लि",
       "B": "Cone clutch | क न  क्‍ लि",
       "C": "Dog clutch |   ग क्‍ लि",
       "D": "Multi plate clutch | मल्‍ टी  प्‍ लेटा क्‍ लि"
@@ -642,7 +655,7 @@
       "A": "Increase and decrease the RPM of engine | \nइिंजन  की आर.पी.एम. क  घटाना  एिंव बढाना",
       "B": "Connect and disconnect power flow engine \nto gear box | इिंजन  की र्स्प्ि  प्रेर्ण क  ज ड़ना  एिंव \nत ड़ना",
       "C": "Reduce the noise during engine running | \nइिंजन  िलने  के दौरान  आवाज िं  क  कम करना",
-      "D": "Prevent malfunctioning of fly wheel | फ्लाई  \nव्‍ हील क  खराबी   े र कना  \n \n\nMechanic Motor Vehicle - 2 Year - Module 1 : Transmission System  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 9 of 66"
+      "D": "Prevent malfunctioning of fly wheel | फ्लाई  \nव्‍ हील क  खराबी   े र कना"
     },
     "image": null,
     "answer": "B"
@@ -881,7 +894,7 @@
     "options": {
       "A": "Prevent fluid leakage | फ्लल्‍ यू चलक े ज  क  र कने  \nके चलए",
       "B": "Prevent the seal rolling in groove | ग्रुव में \n ीलने  के र कने  के चलए",
-      "C": "Provide cushioning effect | क ु चर्चनिंग  प्रभाव  \nप्रदान  करते  है \nMechanic Motor Vehicle - 2 Year - Module 1 : Transmission System  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 11 of 66",
+      "C": "Provide cushioning effect | क ु चर्चनिंग  प्रभाव  \nप्रदान  करते  है",
       "D": "With stand radial movement | रेच यल  मूवमेंट  \nका  ामना  करना"
     },
     "image": null,
@@ -966,7 +979,7 @@
       "A": "Provide noise in gear shifting | चगयर  चर्स्प्फ्टिंग  \nमें र् र प्रदान  करें",
       "B": "Prevent cushioning effect during gear shifting \n| जब गचत में वाहन  ह  त  आ ान  चगयर  चर्स्प्फ्टिंग",
       "C": "Easy gear shifting when vehicle in motion | \nजब गचत में वाहन  ह  त  आ ान  चगयर  चर्स्प्फ्टिंग",
-      "D": "Damage the gear teeth during gear change | \nचगयर  बदलने  के दौरान  चगयर  के दािंत िं क  नुक ान  \n \n  \nMechanic Motor Vehicle - 2 Year - Module 2 :  Steering and Suspension System  \nReview ed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 12 of 66"
+      "D": "Damage the gear teeth during gear change | \nचगयर  बदलने  के दौरान  चगयर  के दािंत िं क  नुक ान"
     },
     "image": null,
     "answer": "C"
@@ -1086,7 +1099,7 @@
       "A": "Mono leaf spring | म न  लीि  स्प्रिंग",
       "B": "Fiber composite spring | िाइबर  कम्‍ प चजट \nस्प्रिंग",
       "C": "Multiple leaf spring | मल्‍ टीपल लीि  स्प्रिंग",
-      "D": "Coil spring | क्‍ वायन स्प्रिंग  \n\nMechanic Motor Vehicle - 2 Year - Module 2 :  Steering and Suspension System  \nReview ed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 14 of 66"
+      "D": "Coil spring | क्‍ वायन स्प्रिंग"
     },
     "image": "extracted_images/page_13_img_7.jpeg",
     "answer": "B"
@@ -1242,7 +1255,7 @@
       "A": "Strut type suspension | स्‍ टरट टाइप   िंस्‍ पेंर्न",
       "B": "Coil spring suspensi on | क्‍ वापल स्प्रिंग   िंस्‍ पेंर्न",
       "C": "Torsion bar suspension | टार न  बार  िंस्‍ पेंर्न",
-      "D": "Rubber spring suspension | रबर स्प्पिंग  \n िंस्‍ पेंर्न \n \n\nMechanic Motor Vehicle - 2 Year - Module 2 :  Steering and Suspension System  \nReview ed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 16 of 66"
+      "D": "Rubber spring suspension | रबर स्प्पिंग  \n िंस्‍ पेंर्न "
     },
     "image": "extracted_images/page_15_img_7.jpeg",
     "answer": "C"
@@ -1357,7 +1370,7 @@
   },
   {
     "number": 117,
-    "question": "What is the type of suspension system? | \nचित्र में चक  प्रकार  का  िंस्‍ पेंर्न च स्‍ टम है ? \n\nMechanic Motor Vehicle - 2 Year - Module 2 :  Steering and Suspension System  \nReview ed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 18 of 66",
+    "question": "What is the type of suspension system? | \nचित्र में चक  प्रकार  का  िंस्‍ पेंर्न च स्‍ टम है ?",
     "options": {
       "A": "Rigid axle suspension system | ररचज  एक्‍  ल \n िंस्‍ पेंर्न च स्‍ टम",
       "B": "Adaptive a ir suspension system | अपमाए  जाने \nवाले एयर  िंस्‍ पेंर्न च स्‍ टम",
@@ -1504,7 +1517,7 @@
     "question": "What is the servicing procedure carried \nout in the wheel? | चनम्‍ न  चित्र में, व्‍ हील की चक  प्रकार  \nकी  चवय  चवचध  है ?",
     "options": {
       "A": "Checking camber angle | क ै म्‍ बर क ण  क  िैक \nकरना",
-      "B": "Checking castor angle | कास्‍ टर क ण  क  िैक \nकरना \n\nMechanic Motor Vehicle - 2 Year - Module 2 :  Steering and Suspension System  \nReview ed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 20 of 66",
+      "B": "Checking castor angle | कास्‍ टर क ण  क  िैक \nकरना ",
       "C": "Checking kingpin inclination | चक िं ग  चपन \nइन्‍‍ कलीनेर्न  क  िैक करना",
       "D": "Checking included angle | इन्‍‍ क्‍ ल्‍ यू  क ण  क  \nिैक करना"
     },
@@ -1782,7 +1795,7 @@
       "A": "Gas pressurised shock absorber | वेन टाईप",
       "B": "Hydraulic shock absorber | चपस्‍ टन टाईप",
       "C": "Automatic load adjustable shock absorber | \nमक ै चनकल  टाईप",
-      "D": "Mechanical shock absorber | टैचलस्‍ क चपक  \nटाईप  \n 154  : What is the effect of weak suspension? | \nकमज र   िंस्‍ पेंर्न च स्‍ टम का क्‍ या प्रभाव  है ? \nA :  Directional unstability  of vehicle | चदर्ात्‍ मक \nअचनयत्रण  \nB : Carr ying excessive payload of vehicle | वाहन  \nपर प्‍ लेल   अचधक  ह ना  \nC : Unequal weight distribution of weight | वाहन  \nपर अ मान  रूप  े भार का बािंटना  \nD :  Vibration damping is more effective | \nवाइब्रेर्न  क  अचधक प्रभावी  ह ना"
+      "D": "Mechanical shock absorber | टैचलस्‍ क चपक"
     },
     "image": null,
     "answer": "C"
@@ -1829,7 +1842,7 @@
     "options": {
       "A": "Betweeen frame and vehicle axle | फ्र े म और \nकल व्‍ हीकल एक्‍  ल के बीि मे",
       "B": "Between high control valve and frame | उच्‍ ि  \nकन्‍‍ टर ल वाल्‍ व  और फ्र े म के बीि में",
-      "C": "Between air pressure regulator and front \naxle | एयर प्रैर्र  रेगुलेटर  और फ्र े म एक्‍  ल के बीि \nMechanic Motor Vehicle - 2 Year - Module 2 :  Steering and Suspension System  \nReview ed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 23 of 66",
+      "C": "Between air pressure regulator and front \naxle | एयर प्रैर्र  रेगुलेटर  और फ्र े म एक्‍  ल के बीि ",
       "D": "Between brake tank and vehicle axle | ब्रेक \nटैक और व्‍ हीकल के बीि में"
     },
     "image": null,
@@ -1936,7 +1949,7 @@
     "question": "What will effect in case of over inflated \ntyres? | अचधक  हवा ह ने का टायर  पर क्‍ या प्रभाव  है ?",
     "options": {
       "A": "Tyre will wearout at centre | टायर  बीि  े \nचघ ेगा",
-      "B": "Tyre will wear out at edges | टायर  बाहरी  \n तह   े चघ ना  \nMechanic Motor Vehicle - 2 Year - Module 2 :  Steering and Suspension System  \nReview ed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 24 of 66",
+      "B": "Tyre will wear out at edges | टायर  बाहरी  \n तह   े चघ ना  ",
       "C": "Tyre will crack at edges | एज  े टायर  र े क  \nह ना",
       "D": "Tyre will crack at centre | टायर  बीि  े र े क  \nह ना"
     },
@@ -2033,7 +2046,7 @@
     "options": {
       "A": "Replace the with new fluid | फ्लल्‍ यू  क  नये \nतेल के  ाथ बदलना",
       "B": "Fill fluid to correct level and bleed the \nsystem | फ्लल्‍ यू   े हवा क  चनकालना  और फ्लल्‍ यू  लेवल  \nपूरा करना",
-      "C": "Adjust the torsion bar linkage | टॉर न  बार \nचलिंक े ज  क  ए जस्‍ ट  करना  \nMechanic Motor Vehicle - 2 Year - Module 2 :  Steering and Suspension System  \nReview ed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 25 of 66",
+      "C": "Adjust the torsion bar linkage | टॉर न  बार \nचलिंक े ज  क  ए जस्‍ ट  करना ",
       "D": "Replace the flow control valve | फ्ल िं कन्‍‍ टर ल \nवाल्‍ व  क  बदलना"
     },
     "image": null,
@@ -2137,7 +2150,7 @@
   },
   {
     "number": 184,
-    "question": "What is the type of defect? | चित्र में, चक  \nप्रकार  का द र् है ? \nMechanic Motor Vehicle - 2 Year - Module 2 :  Steering and Suspension System  \nReview ed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 26 of 66",
+    "question": "What is the type of defect? | चित्र में, चक  \nप्रकार  का द र् है ? ",
     "options": {
       "A": "Cracked treads | टरी  का र ै क  ह ना",
       "B": "Wear on the centre | बीि  े चघ ावट  ह ना",
@@ -2235,7 +2248,7 @@
     "number": 192,
     "question": "What is the cause of “Wheel wobbling”? | \nव्‍ हील ब्‍ वचलिंग का क्‍ या कारण  है ?",
     "options": {
-      "A": "Improper tyre pressure | टायर िं  में  ही हवा न \n\nMechanic Motor Vehicle - 2 Year - Module 2 :  Steering and Suspension System  \nReview ed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 27 of 66 \nह ना",
+      "A": "Improper tyre pressure | टायर िं  में  ही हवा न ",
       "B": "King pin wornout | चक िं ग  चपन का खराब  ह ना",
       "C": "Drop in pressure | प्रेर्र  का चगरना",
       "D": "Wrong hose size | खराब  च चलिंग  ररिंग्‍"
@@ -2286,7 +2299,7 @@
       "A": "Low oil level | चनम्‍ न  ऑयल  दबाव",
       "B": "Wrong flow control valve setting | फ्ल  क िं टर ल  \nवाल्‍ व   ेचटिंग  गलत",
       "C": "Air in the system | च स्‍ टम में हवा",
-      "D": "Wornout sealing ring |  च चलिंग  ररिंग खराब  ह ना  \n \n  \nMechanic Motor Vehicle - 2 Year - Module 3 - Brake system  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 28 of 66"
+      "D": "Wornout sealing ring |  च चलिंग  ररिंग खराब  ह ना "
     },
     "image": null,
     "answer": "B"
@@ -2357,7 +2370,7 @@
     "options": {
       "A": "Pascals law | पास्‍ कल का चनयम",
       "B": "Boyls law | ब्‍ याल्‍   का चनयम",
-      "C": "Newtons law of motion | न्‍‍ यूटन का गचत का \n\nMechanic Motor Vehicle - 2 Year - Module 3 - Brake system  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 29 of 66 \nचनयम",
+      "C": "Newtons law of motion | न्‍‍ यूटन का गचत का",
       "D": "Hooks law | हुक्‍   का चनयम"
     },
     "image": null,
@@ -2499,7 +2512,7 @@
     "number": 214,
     "question": "What is the binding material used in \norganic brake lining? | आग्रेचनक  ब्रेक लाइचनिंग  में \nबाइच िंग  मेटीररयल  कौन   ा ह ता  है ?",
     "options": {
-      "A": "Resin | रेच न  \n\nMechanic Motor Vehicle - 2 Year - Module 3 - Brake system  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 31 of 66",
+      "A": "Resin | रेच न ",
       "B": "Mica | माइका",
       "C": "Asbestos | ए बास्‍ टॉ",
       "D": "Fibre glass | िाइबर  ग्‍ ला"
@@ -2574,7 +2587,7 @@
       "A": "Integral type | इस्प्टग्रल  टाइप",
       "B": "Multiplier type | मल्‍ टी  प्‍ लायर",
       "C": "Pedal assisted type | पै ल  एच स्प्स्ट  टाइप",
-      "D": "Air assisted power brakes | एपर एच स्प्स्ट  \nपावर  \n \n\nMechanic Motor Vehicle - 2 Year - Module 3 - Brake system  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 32 of 66"
+      "D": "Air assisted power brakes | एपर एच स्प्स्ट "
     },
     "image": "extracted_images/page_31_img_5.jpeg",
     "answer": "C"
@@ -2681,7 +2694,7 @@
     "options": {
       "A": "Reduce the pressure at wheel cylinder | \nव्‍ हील च ेलेण्‍  र का प्रैर्र  कम करना",
       "B": "Reduce fluid pressure | िल्‍ यू  प्रैर्र  का कम \nकरना",
-      "C": "Automatic adjustment of engine torque to \n\nMechanic Motor Vehicle - 2 Year - Module 3 - Brake system  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 33 of 66 \nthe grip rates | चग्रप दर िं में इिंजन  टॉक य  का स्विाचलत  \n माय जन",
+      "C": "Automatic adjustment of engine torque to the grip rates | चग्रप दर िं में इिंजन  टॉक य  का स्विाचलत माय जन",
       "D": "Avoid wheel lockup by releasing pressure | \nप्रैर्र  क  ररचलज  करक े  व्‍ हील लॉक  क  बिाना"
     },
     "image": null,
@@ -2706,7 +2719,7 @@
       "A": "It control the slip of the front wheel | फ्रन्‍‍ ट  \nव्‍ हील क  स्‍ लीप ह ने  े बिाना",
       "B": "It controls the slip of the rear wheel | चपछले  \nपचहय िं  क  स्‍ लीप ह ने  े बिाना",
       "C": "It increase brake pressure to the rear wheel \n| चपछले  पचहय िं  का ब्रेक प्रैर्र  बढाना",
-      "D": "It improve directional stability of vehicle | \nयह वाहन  की चदर्ा  चनधायरण  स्‍ टेचबचलटी  का बढाना  \n \n  \nMechanic Motor Vehicle - 2 Year - Module 4 - Motor vehicle act and Trouble Shooting \nPractice   \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 34 of 66"
+      "D": "It improve directional stability of vehicle | \nयह वाहन  की चदर्ा  चनधायरण  स्‍ टेचबचलटी  का बढाना  "
     },
     "image": null,
     "answer": "B"
@@ -2821,7 +2834,7 @@
   },
   {
     "number": 241,
-    "question": "What is the type of sign? |  क ें त  का प्रकार  \n( Type) क्‍ या है ? \n \n\nMechanic Motor Vehicle - 2 Year - Module 4 - Motor vehicle act and Trouble Shooting \nPractice   \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 35 of 66",
+    "question": "What is the type of sign? |  क ें त  का प्रकार  \n( Type) क्‍ या है ?",
     "options": {
       "A": "Parking signs | पाचक िं ग   क ें त",
       "B": "Prohibitory signs | चनर्ेधात्‍ मक  क ें त",
@@ -2919,7 +2932,7 @@
     "number": 249,
     "question": "Which form is required to obtain \ntemporary authorization of use of vehicle when the \ncertificate of fitness expired? |  जब चिटने  प्रमाण  \nपत्र एक्‍  पायर  (expired) ह  जाए, तब व्‍ हीकल की अस्‍ थाई \nप्रचधकरण  (Temprary authorisation) प्रय ग  के चलए कौन  \n े िामय  की आवश्‍ यकता  ह ती  है?",
     "options": {
-      "A": "Form C.F Sub | िामय   ी.एि.  ब \n\nMechanic Motor Vehicle - 2 Year - Module 4 - Motor vehicle act and Trouble Shooting \nPractice   \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 36 of 66",
+      "A": "Form C.F Sub | िामय   ी.एि.  ब ",
       "B": "Form C.F.R.A | िामय   ी.एि.आर.ए.",
       "C": "Form C.F.A | िामय   ी.एि.ए.",
       "D": "Form L.L.D | िामय  एल. एल.  ी."
@@ -3018,7 +3031,7 @@
       "A": "Low power generation | कम पावर  उत्‍ पादन",
       "B": "High fuel consumption | इिंधन  की ज‍ यादा खपत",
       "C": "Engine does not start | ईिंजन का स्‍ टायट न ह ना",
-      "D": "High oil consumption | ऑयल  की ज‍ यादा खपत  \nMechanic Motor Vehicle - 2 Year - Module 4 - Motor vehicle act and Trouble Shooting \nPractice   \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 37 of 66"
+      "D": "High oil consumption | ऑयल  की ज‍ यादा खपत "
     },
     "image": null,
     "answer": "C"
@@ -3136,7 +3149,7 @@
     "question": "What causes high fuel consumption? | \nअचधक  इिंजन  की खपत  का क्‍ या कारण  है ?",
     "options": {
       "A": "Less water level in the radiator | रेच येटर  में \nवाटर  लेवल  का कम ह ना",
-      "B": "Clogged a ir cleaner | एयर स्प्िक  गिंदा ह ना  \nMechanic Motor Vehicle - 2 Year - Module 4 - Motor vehicle act and Trouble Shooting \nPractice   \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 38 of 66",
+      "B": "Clogged a ir cleaner | एयर स्प्िक  गिंदा ह ना ",
       "C": "Defective thermostat valve | थरमोस्‍ टेट वाल्‍ व  \nका खराब  ह ना",
       "D": "Exhaust manifold clogged | एग्‍ ज स्‍ ट मैचनि ल्‍   \nबिंद ह ना"
     },
@@ -3294,7 +3307,7 @@
       "A": "Temperature sensor | टेंम्‍ परेिर  ें र",
       "B": "Throttle position sensor | थ्र टल  प चजर्न   ें र",
       "C": "Crank shaft position sensor | र ें क  र्ाफ्ट  \nप चजर्न   ें र",
-      "D": "Pressure sensor | प्रेर्र   ें र  \n \n\nMechanic Motor Vehicle - 2 Year -  Module 5 - Electronic Control System  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 41 of 66"
+      "D": "Pressure sensor | प्रेर्र   ें र"
     },
     "image": "extracted_images/page_40_img_6",
     "answer": "D"
@@ -3438,7 +3451,7 @@
       "A": "Acts as contact breaker | कािंटेक्‍ ट  ब्रेकर  के रूप \nमें कायय  करना",
       "B": "Prevents dirt, carbon into distributor | \nच स्‍ टरीब्‍ यूटर क  धूल और काबयन   े बिाना",
       "C": "Conduct the ignition surge to the electrode | \nइलेक्‍ टर   के चलए इचिर्न  उछाल  का  िंिालन  करना",
-      "D": "Distribute high tension surge to ignition coil \n| इचिर्न  क्‍ वाईल क  हाई टेंर्न  का उछाल  बॉटना  \n\nMechanic Motor Vehicle - 2 Year -  Module 5 - Electronic Control System  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 43 of 66"
+      "D": "Distribute high tension surge to ignition coil \n| इचिर्न  क्‍ वाईल क  हाई टेंर्न  का उछाल  बॉटना "
     },
     "image": null,
     "answer": "B"
@@ -3545,7 +3558,7 @@
     "options": {
       "A": "Step up low voltage to high voltage | ल  \nव ल्‍ टेज क  हाई व ल्‍ टेज में बढाना",
       "B": "Step down high voltage to low voltage | हाई \nव ल्‍ टेज क  ल  व ल्‍ टेज मे घटाना",
-      "C": "Connect the primary circuit to ignition switch \nMechanic Motor Vehicle - 2 Year -  Module 5 - Electronic Control System  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 44 of 66 \n| प्राईमरी   चक य ट  क  इचिर्न  स्प्स्वि   े ज  ना",
+      "C": "Connect the primary circuit to ignition switch | प्राईमरी   चक य ट  क  इचिर्न  स्प्स्वि   े ज  ना",
       "D": "Discon nect the secondary circuit to \ndistributor |  क ें  री   चक य ट  क  च स्‍ टरीब्‍ यूटर  े त  ना"
     },
     "image": null,
@@ -3666,7 +3679,7 @@
       "A": "Provide additional fuel during starting | \nस्‍ टराचटिंग के  मय  अचधक  फ्युल  प्रदान  करना",
       "B": "Provide positive starting | पाचजचटव  स्‍ टराचटिंग \nप्रदान  करना",
       "C": "Intake manifold | इनटेक  मेचनि ल्‍",
-      "D": "Determine timing and sequence of fuel \ninjection | टाईचमिंग  और फ्युल  इिंजेक्‍ र्न के रम क  \nचनधायररत  करना  \nMechanic Motor Vehicle - 2 Year -  Module 5 - Electronic Control System  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 45 of 66"
+      "D": "Determine timing and sequence of fuel \ninjection | टाईचमिंग  और फ्युल  इिंजेक्‍ र्न के रम क  \nचनधायररत  करना  "
     },
     "image": null,
     "answer": "A"
@@ -3702,7 +3715,7 @@
       "A": "Plug runs too cold | स्‍ पाकय प्‍ लग बहुत  ठिं ा ह ना",
       "B": "Incorrect tappet clearance | गलत  टैपटेट  \nिीयरें",
       "C": "Plug runs too hot | स्‍ पाकय प्‍ लग बहुत  गमय रहेगा",
-      "D": "Incorrect fuel mixture | फ्युल  चमक्‍  िर  ही न \nह ना  \n \n  \nMechanic Motor Vehicle - 2 Year -   Module 6 : Charging an d Starting System  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 46 of 66"
+      "D": "Incorrect fuel mixture | फ्युल  चमक्‍  िर  ही न \nह ना "
     },
     "image": null,
     "answer": "C"
@@ -3733,7 +3746,7 @@
   },
   {
     "number": 323,
-    "question": "What is the type of starting system? | \nस्‍ टायचटिंग च स्‍ टम की क्‍ या प्रकार  है ? \n \n\nMechanic Motor Vehicle - 2 Year -   Module 6 : Charging an d Starting System  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 47 of 66",
+    "question": "What is the type of starting system? | \nस्‍ टायचटिंग च स्‍ टम की क्‍ या प्रकार  है ? ",
     "options": {
       "A": "Bendix drive| वें ेक्‍    राईव",
       "B": "Axial or sliding armature drive | एक्‍  ल या \nस्‍ लाईच िंग  आरमेंिर   राईव",
@@ -3889,7 +3902,7 @@
   },
   {
     "number": 336,
-    "question": "What is the type of device? | उपकरण  का \nक्‍ या नाम है ? \n\nMechanic Motor Vehicle - 2 Year -   Module 6 : Charging an d Starting System  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 49 of 66",
+    "question": "What is the type of device? | उपकरण  का \nक्‍ या नाम है ?",
     "options": {
       "A": "Alternator | अल्‍ टरनेटर",
       "B": "Distributor | च स्‍ टरीवुटर",
@@ -3985,7 +3998,7 @@
   },
   {
     "number": 344,
-    "question": "What is the function of solenoid switch? | \n  लेनाई  स्प्स्वि  का क्‍ या कायय  है ? \n\nMechanic Motor Vehicle - 2 Year -   Module 6 : Charging an d Starting System  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 50 of 66",
+    "question": "What is the function of solenoid switch? | \n  लेनाई  स्प्स्वि  का क्‍ या कायय  है ?",
     "options": {
       "A": "Open and close the circuit between primary \nand se condary | प्राईमरी  और  ेक ें  री  क बीि  चक य ट  \nक  खेलना  और बिंद करना",
       "B": "Stepdown voltage from primary to secondary \nwinding | प्राइमरी   े  ेक ें  री  वाईिंच िंग तक िरणबद्  \nव ल्टेज",
@@ -4083,7 +4096,7 @@
     "number": 353,
     "question": "What is the function of diodes? |  ाय   \nका क्‍ या कायय  है ?",
     "options": {
-      "A": "Convert AC to DC | AC क  DC में क िं वयट  करना  \nMechanic Motor Vehicle - 2 Year -   Module 6 : Charging an d Starting System  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 51 of 66",
+      "A": "Convert AC to DC | AC क  DC में क िं वयट  करना ",
       "B": "Convert DC to AC | DC क  AC में बदलना",
       "C": "Step up voltage | व ल्‍ टेज बढाना",
       "D": "Step down voltage | व ल्‍ टेज क  कम करना"
@@ -4189,7 +4202,7 @@
   },
   {
     "number": 362,
-    "question": "What causes charges at high rate in the \nalternator? | अल्‍ टरनेटर  में हाई रेट िाचजिंग  का क्‍ या \nMechanic Motor Vehicle - 2 Year -   Module 6 : Charging an d Starting System  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 52 of 66 \nकारण  है ?",
+    "question": "What causes charges at high rate in the \nalternator? | अल्‍ टरनेटर  में हाई रेट िाचजिंग  का क्‍ या कारण  है ?",
     "options": {
       "A": "Open rectifier circuit | ओपन  रेक्‍ टीिायर  \n चक य ट",
       "B": "Open f ield current | ओपन  चिल्‍   करिंट",
@@ -4218,7 +4231,7 @@
       "A": "Drive belt loose | ढीली   राईव  बेल्‍ ट",
       "B": "Shorted rectifier |   रटी  रेस्प्रिायर",
       "C": "Sticky regulator | स्प्स्टक  रेस्प्रिायर",
-      "D": "Brushes not seating properly | ब्रर्  का \nप्र परली  न लगा ह ना  \n \n \n  \nMechanic Motor Vehicle - 2 Year -   Module 7 : Auto Lighting System  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 53 of 66"
+      "D": "Brushes not seating properly | ब्रर्  का \nप्र परली  न लगा ह ना "
     },
     "image": null,
     "answer": "A"
@@ -4429,7 +4442,7 @@
   },
   {
     "number": 382,
-    "question": "What is the purpose of dome light circuit? \n|   म लाईट   चक य ट  का क्‍ या उदेश्‍ य  है ? \nMechanic Motor Vehicle - 2 Year -   Module 7 : Auto Lighting System  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 55 of 66",
+    "question": "What is the purpose of dome light circuit? \n|   म लाईट   चक य ट  का क्‍ या उदेश्‍ य  है ? ",
     "options": {
       "A": "Panel bo ard gauges indication | पेनल  बो  \nगेज  के  क ें त",
       "B": "Interior illumination | अिंदर  की रेार्नी",
@@ -4470,7 +4483,7 @@
       "A": "Parking light circuit | पाचक िं ग  लाईट   चक य ट",
       "B": "Head light circuit | है  लाईट   चक य ट",
       "C": "Panel light circuit | पेनल  लाईट   चक य ट",
-      "D": "Fog light ci rcuit | ि ग  लाईट   चक य ट  \n \n  \nMechanic Motor Vehicle - 2 Year -   Mod ule 8 : Air c onditioning system  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 56 of 66"
+      "D": "Fog light ci rcuit | ि ग  लाईट   चक य ट  "
     },
     "image": null,
     "answer": "B"
@@ -4527,7 +4540,7 @@
     "number": 391,
     "question": "What is the name of device? | चित्र में दर्ायए  \nगए उपकरण  का क्‍ या नाम है?",
     "options": {
-      "A": "Ambient temperature sensor| एस्प्िएिंट  \nटेम्‍ परेिर  ें र  \n\nMechanic Motor Vehicle - 2 Year -   Mod ule 8 : Air c onditioning system  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 57 of 66",
+      "A": "Ambient temperature sensor| एस्प्िएिंट  टेम्‍ परेिर  ें र  ",
       "B": "Thermostatic switch | थमोस्‍ टेचटक  स्प्स्वि",
       "C": "Expansion valve | एक्‍  पेंर्न  वाल्‍ व",
       "D": "Servo mo tor |  वो म टर"
@@ -4734,7 +4747,7 @@
       "A": "High speed operation possible | उच्‍ ि  गचत की \nचरया   म्‍ भव (हाई स्‍ पी  ऑपरेर्न   म्‍ भव)",
       "B": "Suitable for precision control of rotation | \nर टेर्न  के  ूक्ष्‍ म  चनयिंत्रण  के चलए उचित",
       "C": "Low cost of maintenance | रखरखाव  की कम \nलागत",
-      "D": "Suitable to prevent vibration | कम्‍ पन क  कम \nकरने  के चलए उचित  \nMechanic Motor Vehicle - 2 Year -   Mod ule 8 : Air c onditioning system  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 59 of 66"
+      "D": "Suitable to prevent vibration | कम्‍ पन क  कम \nकरने  के चलए उचित  "
     },
     "image": null,
     "answer": "A"
@@ -4746,7 +4759,7 @@
       "A": "Smog sensor | स्‍ मॉग  ें र",
       "B": "Sun load sensor |   न-ल    ें र",
       "C": "Infrared sensor | इन्‍‍ फ्रारे   ें र",
-      "D": "Interior temperature sensor | आिंतररक  \nतापमान   ें र  \n 410  : Which sensor causes off the outside air \ninlet or other odours? | चक   ें र  की वजह   े बाहर  \nकी हवा अिंदर  आना  बिंद ह ती  है और दू री  स्‍ मैल भी बिंद \nह ती  है? \nA : Infrared sensor | इन्‍‍ फ्रारे   ें र  \nB : Smog sensor | स्‍ मॉग  ें र  \nC : Sunload sensor |  न-ल    ें र  \nD : Temperature sensor | तापमान   ें र  \n \n  \nMechanic Motor Vehicle - 2 Year -    Module 9 : Electrical Components Trouble \nShooting    \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 60 of 66"
+      "D": "Interior temperature sensor | आिंतररक  \nतापमान   ें र"
     },
     "image": null,
     "answer": "C"
@@ -4887,7 +4900,7 @@
     "number": 422,
     "question": "Which sensor used for safer parking of \nvehicle? | इनमें   े कौन - ा  ें र  गाड़ी  की  ुरचक्षत  \nपाचक िं ग  के चलए उपय ग  चकया  जाता  है?",
     "options": {
-      "A": "Infrared sensor | इन्‍‍ फ्रारे   ें र  \n\nMechanic Motor Vehicle - 2 Year -    Module 9 : Electrical Components Trouble \nShooting    \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 62 of 66",
+      "A": "Infrared sensor | इन्‍‍ फ्रारे   ें र  ",
       "B": "Proximity sensor | प्र क्‍  ीचमटी   ें र",
       "C": "Crash sensor | र ै र्  ें र",
       "D": "Air bag sensor | एयर बैग  ें र"
@@ -5082,7 +5095,7 @@
       "A": "ECM problem | ई. ी.एम. ( मस्‍ या ) प्रॉब्‍ लम",
       "B": "Unregistered ignition key | अनाचधक ृ त  इचिर्न  \nकी (key)",
       "C": "Poor transponder in key | िाबी  में खराब  \nटरािं प िं र",
-      "D": "Blown fuse | फ्यूज़  का जल जाना  \n \n  \nMechanic Motor Vehicle - 2 Ye ar -    Module 10 : Driving practice  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 64 of 66"
+      "D": "Blown fuse | फ्यूज़  का जल जाना  "
     },
     "image": null,
     "answer": "A"
@@ -5200,7 +5213,7 @@
     "question": "What does the 3rd digit code no 9. \nindicate system trouble in sca n tool letter codes? | \n3 अिंकीय  क    िंख्या  9. स्क ै न  टूल लेटर  क   में च स्टम  \nकी मु ीबत  क  क्या दर्ायता  है?",
     "options": {
       "A": "Ignition system | इचिचर्िंग  च स्टम",
-      "B": "Input/out signal and controls | \nMechanic Motor Vehicle - 2 Ye ar -    Module 10 : Driving practice  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 65 of 66 \nइनपुट /आउटपुट  च गनल  और कटर ल",
+      "B": "Input/out signal and controls | इनपुट /आउटपुट  च गनल  और कटर ल",
       "C": "Emission system | एमीर्न  च स्टम",
       "D": "Comput er system | कम्यूटर  च स्टम"
     },
@@ -5238,7 +5251,7 @@
       "A": "Provide information about vehicle \nregistration history | वाहन  के पिंजीकरण  इचतहा  के \nबारे में ( ूिना ) जानकारी  देना",
       "B": "Provide information about tracking of vehicle \n| वाहन  की टरेचक िं ग  के बारे में जानकारी  प्रदान  करना",
       "C": "Provide information about vehicle safety | \nवाहन  की  ुरक्षा  के बारे में जानकारी  प्रदान  करना",
-      "D": "Provide information about warming system | \nिेतावनी  च स्‍ टम के बारे में जानकारी  प्रदान  करना  \n \n \nANSWERS :"
+      "D": "Provide information about warming system | \nिेतावनी  च स्‍ टम के बारे में जानकारी  प्रदान  करना"
     },
     "image": null,
     "answer": "A"
