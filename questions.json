@@ -43,6 +43,7 @@
       "B": "Single plate clutch with coil spring | क्‍ वायल \nस्प्रिंग  के  ाथ च िंगल  प्‍ लेट क्‍ लि",
       "C": "Diaphragm clutch |  ायफ्राम  क्‍ लि",
       "D": "Multi plate dry wet clutches | मल्‍ टी  प्‍ लेट  ुखे \nएिंव क्‍ लि"
+    },
     "image": "extracted_images/page_1_img_3.jpeg",
     "answer": "B"
   },
@@ -54,6 +55,7 @@
       "B" : "Dog clutch |   ग क्‍ लि",
       "C" : "Multi plate clutch | मल्‍ टी  प्‍ लेट क्‍ लि",
       "D" :  "Cone clutch | क न  क्‍ लि"
+    },
     "image": "extracted_images/page_1_img_4.jpeg",
     "answer": "D"
     },   
