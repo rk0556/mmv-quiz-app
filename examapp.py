@@ -40,13 +40,16 @@ for q in current_questions:
         else:
             st.warning(f"⚠️ Image not found: {q['image']} (Q{q['number']})")
 
-    # ✅ Safe radio index
+    # ✅ Safe radio default selection
     option_keys = list(q["options"].keys())
     user_answer = st.session_state.user_answers.get(q["number"])
-    try:
-        default_index = option_keys.index(user_answer) if user_answer else -1
-    except ValueError:
-        default_index = -1
+
+    # Optional debug warning
+    if user_answer and user_answer not in option_keys:
+        st.warning(f"⚠️ Invalid saved answer '{user_answer}' for Q{q['number']}' — resetting selection.")
+
+    # Set default index safely
+    default_index = option_keys.index(user_answer) if user_answer in option_keys else 0
 
     selected = st.radio(
         f"Choose your answer for Q{q['number']}:",
