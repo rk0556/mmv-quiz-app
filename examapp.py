@@ -25,7 +25,10 @@ current_questions = questions[start:end]
 for q in current_questions:
     st.subheader(f"Q{q['number']}: {q['question']}")
     if q.get("image"):
-        st.image(q["image"])
+        if os.path.exists(q["image"]):
+            st.image(q["image"])
+        else:
+            st.warning(f"⚠️ Image not found: {q['image']} (Q{q['number']})")
     selected = st.radio(
         f"Choose your answer for Q{q['number']}:",
         list(q["options"].keys()),
