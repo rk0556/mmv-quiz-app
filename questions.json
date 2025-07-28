@@ -42,11 +42,21 @@
       "A": "Cone clutch | क न क्‍ लि",
       "B": "Single plate clutch with coil spring | क्‍ वायल \nस्प्रिंग  के  ाथ च िंगल  प्‍ लेट क्‍ लि",
       "C": "Diaphragm clutch |  ायफ्राम  क्‍ लि",
-      "D": "Multi plate dry wet clutches | मल्‍ टी  प्‍ लेट  ुखे \nएिंव क्‍ लि \n 5  : What is the type of clutch?| चनम्‍ न  कौन   ी \nप्रकार  का क्‍ लि है ? \n \nA :  Single plate clutch | च िंगल  प्‍ लेट क्‍ लि \nB : Dog clutch |   ग क्‍ लि \nC : Multi plate clutch | मल्‍ टी  प्‍ लेट क्‍ लि \nD :  Cone clutch | क न  क्‍ लि"
-    },
+      "D": "Multi plate dry wet clutches | मल्‍ टी  प्‍ लेट  ुखे \nएिंव क्‍ लि"
     "image": "extracted_images/page_1_img_3.jpeg",
     "answer": "B"
   },
+ {
+    "number": 5,  
+    "question": "What is the type of clutch?| चनम्‍ न  कौन   ी \nप्रकार  का क्‍ लि है ?",
+    "options": { 
+      "A" :  "Single plate clutch | च िंगल  प्‍ लेट क्‍ लि",
+      "B" : "Dog clutch |   ग क्‍ लि",
+      "C" : "Multi plate clutch | मल्‍ टी  प्‍ लेट क्‍ लि",
+      "D" :  "Cone clutch | क न  क्‍ लि"
+    "image": "extracted_images/page_1_img_4.jpeg",
+    "answer": "D"
+    },   
   {
     "number": 6,
     "question": "What is the name of clutch? | चनम्‍ न  क्‍ लि का \nक्‍ या नाम है ?",
