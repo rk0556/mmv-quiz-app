@@ -8,7 +8,7 @@
             "C": "Gear box | चगयर  बॉक्‍",
             "D": "Fuel tank | फ्यूल  टैंक"
         },
-        "image": "extracted_images\\page_1_img_2.png",
+        "image": "extracted_images/page_1_img_2.png",
         "answer": "B"
     },
     {
@@ -20,7 +20,7 @@
             "C": "24 volts | 24 -व ल्‍ ट",
             "D": "28 volts | 28 -व ल्‍ ट"
         },
-        "image": "extracted_images\\page_1_img_1.png",
+        "image": "extracted_images/page_1_img_1.png",
         "answer": "A"
     },
     {
