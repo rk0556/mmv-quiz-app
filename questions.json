@@ -1,243 +1,274 @@
 [
   {
     "number": 1,
-    "question": "Transmission System  \nReviewed and updated on: 01st November 2019 Version 1. 1 \n \n NIMI Question Bank  Page 1 of 66 \n1  : What is the name of part marked as ‘X’ in the \nheavy vehicle? | भारी  वाहन  में ’X’ के रूप में चिचित  \nभाग का नाम क्या है?",
+    "question": "What is the name of part marked as ‘X’ in the heavy vehicle? | भारी वाहन में 'X' के रूप में चिह्नित भाग का नाम क्या है?",
     "options": {
-      "A": "Steering wheel | स्‍ टीयररिंग  व्‍ हील",
-      "B": "Clutch housing | क्‍ लि हाउच िंग",
-      "C": "Gear box | चगयर  बॉक्‍",
-      "D": "Fuel tank | फ्यूल  टैंक"
+      "A": "Steering wheel | स्टीयरिंग व्हील",
+      "B": "Clutch housing | क्लच हाउसिंग",
+      "C": "Gear box | गियर बॉक्स",
+      "D": "Fuel tank | फ्यूल टैंक"
     },
     "image": "extracted_images/page_1_img_2.jpeg",
     "answer": "B"
   },
   {
     "number": 2,
-    "question": "What is the battery system used for heavy \nvehicles? | भारी  वाहन िं  में कौन   ी बैटरी प्रय ग  की जाती  \nहै ?",
+    "question": "What is the battery system used for heavy vehicles? | भारी वाहनों में कौन-सी बैटरी प्रणाली प्रयुक्त होती है?",
     "options": {
-      "A": "6 volts | G -व ल्‍ ट",
-      "B": "12 volts | 12 -व ल्‍ ट",
-      "C": "24 volts | 24 -व ल्‍ ट",
-      "D": "28 volts | 28 -व ल्‍ ट"
+      "A": "6 volts | 6 वोल्ट",
+      "B": "12 volts | 12 वोल्ट",
+      "C": "24 volts | 24 वोल्ट",
+      "D": "28 volts | 28 वोल्ट"
     },
     "image": null,
     "answer": "C"
   },
   {
     "number": 3,
-    "question": "What is the working principle of clutch?  | \nक्‍ लि का काययकारी  च द्ािंत  क्‍ या है?",
+    "question": "What is the working principle of clutch? | क्लच का कार्यकारी सिद्धांत क्या है?",
     "options": {
-      "A": "Sliding | स्‍ लाईच िंग",
-      "B": "Centripetal |  ेन्‍‍ टरीफ्यूगल",
-      "C": "Friction | घर्यण",
-      "D": "Screw and Nut | स्‍ र ू ( नट) एिंव नट"
+      "A": "Sliding | स्लाइडिंग",
+      "B": "Centripetal | सेंट्रिपिटल",
+      "C": "Friction | घर्षण",
+      "D": "Screw and Nut | स्क्रू और नट"
     },
     "image": null,
     "answer": "C"
   },
   {
     "number": 4,
-    "question": "What is the type of clutch? | चनम्‍ न  कौन   े \nप्रकार  का क्‍ लि है ?",
+    "question": "What is the type of clutch? | निम्न में से किस प्रकार का क्लच है?",
     "options": {
-      "A": "Cone clutch | क न क्‍ लि",
-      "B": "Single plate clutch with coil spring | क्‍ वायल \nस्प्रिंग  के  ाथ च िंगल  प्‍ लेट क्‍ लि",
-      "C": "Diaphragm clutch |  ायफ्राम  क्‍ लि",
-      "D": "Multi plate dry wet clutches | मल्‍ टी  प्‍ लेट  ुखे \nएिंव क्‍ लि"
+      "A": "Cone clutch | कोन क्लच",
+      "B": "Single plate clutch with coil spring | कॉइल स्प्रिंग के साथ सिंगल प्लेट क्लच",
+      "C": "Diaphragm clutch | डायाफ्राम क्लच",
+      "D": "Multi plate dry wet clutches | मल्टी प्लेट ड्राय वेट क्लच"
     },
     "image": "extracted_images/page_1_img_3.jpeg",
     "answer": "B"
   },
- {
-    "number": 5,  
-    "question": "What is the type of clutch?| चनम्‍ न  कौन   ी \nप्रकार  का क्‍ लि है ?",
-    "options": { 
-      "A" :  "Single plate clutch | च िंगल  प्‍ लेट क्‍ लि",
-      "B" : "Dog clutch |   ग क्‍ लि",
-      "C" : "Multi plate clutch | मल्‍ टी  प्‍ लेट क्‍ लि",
-      "D" :  "Cone clutch | क न  क्‍ लि"
+  {
+    "number": 5,
+    "question": "What is the type of clutch? | निम्न में से किस प्रकार का क्लच है?",
+    "options": {
+      "A": "Single plate clutch | सिंगल प्लेट क्लच",
+      "B": "Dog clutch | डॉग क्लच",
+      "C": "Multi plate clutch | मल्टी प्लेट क्लच",
+      "D": "Cone clutch | कोन क्लच"
     },
     "image": "extracted_images/page_1_img_4.jpeg",
     "answer": "D"
-    },   
+  },
   {
     "number": 6,
-    "question": "What is the name of clutch? | चनम्‍ न  क्‍ लि का \nक्‍ या नाम है ?",
+    "question": "What is the name of clutch? | इस क्लच का नाम क्या है?",
     "options": {
-      "A": "Cone clutch| क न  क्‍ लि",
-      "B": "Diaphragm spring type clutch |  ायफ्राम  स्प्रिंग  \nटाईप  क्‍ लि",
-      "C": "Dog clutch |   ग क्‍ लि",
-      "D": "Multi plate clutch | मल्‍ टी  प्‍ लेट क्‍ लि"
+      "A": "Cone clutch | कोन क्लच",
+      "B": "Diaphragm spring type clutch | डायाफ्राम स्प्रिंग प्रकार का क्लच",
+      "C": "Dog clutch | डॉग क्लच",
+      "D": "Multi plate clutch | मल्टी प्लेट क्लच"
     },
     "image": "extracted_images/page_1_img_5.jpeg",
     "answer": "B"
   },
   {
     "number": 7,
-    "question": "What is the name of part marked as ‘X’ in the \ndog clutch? | चनम्‍ न    ग क्‍ लि में ´X´ द्वारा दर्ायए  गए भाग \nक्‍ या नाम है ?",
+    "question": "What is the name of part marked as ‘X’ in the dog clutch? | डॉग क्लच में 'X' द्वारा दर्शाया गया भाग कौन-सा है?",
     "options": {
-      "A": "Splined shaft | स्‍ पलाइिं  र्ाफ्ट",
-      "B": "Driving shaft |  राइचविंग  र्ाफ्ट",
-      "C": "Sleeve | स्‍ लीव",
-      "D": "Internal teeth | अन्‍‍ दरूनी  दातें (Internal teeth)"
+      "A": "Splined shaft | स्प्लाइंड शाफ्ट",
+      "B": "Driving shaft | ड्राइविंग शाफ्ट",
+      "C": "Sleeve | स्लीव",
+      "D": "Internal teeth | आंतरिक दांत"
     },
     "image": "extracted_images/page_2_img_2.jpeg",
     "answer": "C"
   },
   {
     "number": 8,
-    "question": "What is the name of component? | चनम्‍ न  चित्र \nमें, कौन   ा भाग है ?",
+    "question": "What is the name of component? | निम्न चित्र में दर्शाया गया घटक कौन-सा है?",
     "options": {
-      "A": "Single plate clutc h | च िंगल  प्‍ लेट क्‍ लि",
-      "B": "Multi plate clutch | मल्‍ टी  प्‍ लेट क्‍ लि",
-      "C": "Fluid coupling | फ्लल्‍ यू  कपचलिंग",
-      "D": "Dog clutch |   ग क्‍ लि"
+      "A": "Single plate clutch | सिंगल प्लेट क्लच",
+      "B": "Multi plate clutch | मल्टी प्लेट क्लच",
+      "C": "Fluid coupling | फ्लूइड कपलिंग",
+      "D": "Dog clutch | डॉग क्लच"
     },
     "image": "extracted_images/page_2_img_3.jpeg",
     "answer": "C"
   },
   {
     "number": 9,
-    "question": "What is the name of clutch? | चनम्‍ न  क्‍ लि का \nक्‍ या नाम है ?",
+    "question": "What is the name of clutch? | इस क्लच का नाम क्या है?",
     "options": {
-      "A": "Cone clutch | क न  क्‍ लि",
-      "B": "Dog clutch |   ग क्‍ लि",
-      "C": "Multi plate clutch| मल्‍ टी  प्‍ लेट क्‍ लि",
-      "D": "Single plate clutch | च िंगल  प्‍ लेट क्‍ लि"
+      "A": "Cone clutch | कोन क्लच",
+      "B": "Dog clutch | डॉग क्लच",
+      "C": "Multi plate clutch | मल्टी प्लेट क्लच",
+      "D": "Single plate clutch | सिंगल प्लेट क्लच"
     },
     "image": "extracted_images/page_2_img_4.jpeg",
     "answer": "C"
   },
   {
     "number": 10,
-    "question": "What is the name of part marked as ‘X’ in \nthe fluid coupling? | चनम्‍ न  फ्लल्‍ यू  कपचलिंग  में ´X´ द्वारा \nचिचहन  भाग का क्‍ या नाम है ?",
+    "question": "What is the name of part marked as ‘X’ in the fluid coupling? | फ्लूइड कपलिंग में 'X' द्वारा चिह्नित भाग का क्या नाम है?",
     "options": {
-      "A": "Driving unit impeller  |  राइचविंग  यूचनट  इम्‍ पेलर",
-      "B": "Crank shaft | र ै न्‍‍ कर्ाफ्ट",
-      "C": "Driven shaft |  रचवन  र्ाफ्ट",
-      "D": "Interior fins | अन्‍‍ दरूनी  चिन्‍‍"
+      "A": "Driving unit impeller | ड्राइविंग यूनिट इम्पेलर",
+      "B": "Crank shaft | क्रैंक शाफ्ट",
+      "C": "Driven shaft | ड्रिवन शाफ्ट",
+      "D": "Interior fins | आंतरिक फिन्स"
     },
     "image": "extracted_images/page_2_img_5.jpeg",
     "answer": "D"
   },
-  {
+
+    {
     "number": 11,
-    "question": "What are instruments used while inspecting \npressure plate? | प्रैर्र  प्‍ लेट की जािंि के चलए कौन   े \nउपकरण  का प्रय ग  चकया  जाता  है ?",
-    "options": {
-      "A": "Straight edge and feeler gauge | स्‍ टरेट एज और \nचिलर  गेज",
-      "B": "Steel rule and angle gauge | स्‍ टील रूल और \nएिंगल  गेज",
-      "C": "Straight edge and slip gauge | स्‍ टरेट एज और \nस्‍ लीप गेज",
-      "D": "Parallel block and radious gauge | पेरेलल  \nब्‍ लॉक और रेच यिं  गेज"
+    "question": {
+      "english": "What are instruments used while inspecting pressure plate?",
+      "hindi": "प्रेशर प्लेट की जाँच करते समय उपयोग किए जाने वाले उपकरण कौन से हैं?"
     },
-    "image": "extracted_images/page_2_img_6.jpeg",
-    "answer": "A"
+    "options": {
+      "A": { "english": "Straight edge and feeler gauge", "hindi": "स्ट्रेट एज और फीलर गेज" },
+      "B": { "english": "Steel rule and angle gauge", "hindi": "स्टील रूल और एंगल गेज" },
+      "C": { "english": "Straight edge and slip gauge", "hindi": "स्ट्रेट एज और स्लिप गेज" },
+      "D": { "english": "Parallel block and radious gauge", "hindi": "पैरेलल ब्लॉक और रेडियस गेज" }
+    },
+    "answer": "A",
+    "image": "extracted_images/page_2_img_6.jpeg"
   },
   {
     "number": 12,
-    "question": "What is the name of tool marked as ‘X’ in \nthe clutch aligning assembly work? | क्‍ लि एलाइिंग  \nए ेम्‍ बली कायय  में ´X´ दर्ायए  गए उपकरण  का क्‍ या नाम है ?",
-    "options": {
-      "A": "Straight edge | स्‍ टरेट एज",
-      "B": "Parallel block | पेरेलल  ब्‍ लॉक",
-      "C": "Clutch aligner | क्‍ लि एलािंइनर",
-      "D": "Cylindrical drift | च लेण्‍  रीक्‍ ल  च रफ्ट"
+    "question": {
+      "english": "What is the name of tool marked as ‘X’ in the clutch aligning assembly work?",
+      "hindi": "क्लच अलाइनिंग असेंबली कार्य में 'X' द्वारा दर्शाए गए उपकरण का क्या नाम है?"
     },
-    "image": "extracted_images/page_3_img_2.jpeg",
-    "answer": "C"
+    "options": {
+      "A": { "english": "Straight edge", "hindi": "स्ट्रेट एज" },
+      "B": { "english": "Parallel block", "hindi": "पैरेलल ब्लॉक" },
+      "C": { "english": "Clutch aligner", "hindi": "क्लच अलाइनर" },
+      "D": { "english": "Cylindrical drift", "hindi": "सिलिंड्रिकल ड्रिफ्ट" }
+    },
+    "answer": "C",
+    "image": "extracted_images/page_3_img_2.jpeg"
   },
   {
     "number": 13,
-    "question": "What is the name of instrument marked ‘X’ \nin the fly wheel run out check? | फ्लाई  व्‍ हील रन \nआऊट  िैक करने  के चलए ´X´ चिन्‍‍ ह  द्वारा दर्ायए  गए \nउपकरण  का नाम क्‍ या है ?",
-    "options": {
-      "A": "Outside micrometer | आऊट  ाइ  \nमाइर मीटर",
-      "B": "Dial test indicator |  ापल  टेस्‍ ट इस्प्िक े टर",
-      "C": "Inside micrometer | इन  ाइ  माइर मीटर",
-      "D": "Bore dial gauge |  ायल  ब र गेज"
+    "question": {
+      "english": "What is the name of instrument marked ‘X’ in the fly wheel run out check?",
+      "hindi": "फ्लाईव्हील रनआउट की जाँच में 'X' द्वारा दर्शाए गए उपकरण का नाम क्या है?"
     },
-    "image": "extracted_images/page_3_img_3.jpeg",
-    "answer": "B"
+    "options": {
+      "A": { "english": "Outside micrometer", "hindi": "आउटसाइड माइक्रोमीटर" },
+      "B": { "english": "Dial test indicator", "hindi": "डायल टेस्ट इंडिकेटर" },
+      "C": { "english": "Inside micrometer", "hindi": "इनसाइड माइक्रोमीटर" },
+      "D": { "english": "Bore dial gauge", "hindi": "बोर डायल गेज" }
+    },
+    "answer": "B",
+    "image": "extracted_images/page_3_img_3.jpeg"
   },
   {
     "number": 14,
-    "question": "What is the name of seal marked as ‘X’ in \nthe servo piston? | चनम्‍ न  चित्र  वो चपस्‍ टन में ´X´ दर्ायए \nगए  ील  का क्‍ या है ?",
-    "options": {
-      "A": "Square cut seal | िकौर  कट  ील",
-      "B": "Metal sealing ring | धातु च चलिंग  ररग",
-      "C": "Lip seal | चलप  ील",
-      "D": "Teflow seal | टेफ्ल   ील"
+    "question": {
+      "english": "What is the name of seal marked as ‘X’ in the servo piston?",
+      "hindi": "सर्वो पिस्टन में 'X' द्वारा दर्शाए गए सील का क्या नाम है?"
     },
-    "image": "extracted_images/page_3_img_4.jpeg",
-    "answer": "C"
+    "options": {
+      "A": { "english": "Square cut seal", "hindi": "स्क्वायर कट सील" },
+      "B": { "english": "Metal sealing ring", "hindi": "मेटल सीलिंग रिंग" },
+      "C": { "english": "Lip seal", "hindi": "लिप सील" },
+      "D": { "english": "Teflow seal", "hindi": "टेफ्लॉन सील" }
+    },
+    "answer": "C",
+    "image": "extracted_images/page_3_img_4.jpeg"
   },
   {
     "number": 15,
-    "question": "What is the name of gearbox? | चनम्‍ न  चित्र में \nकौन   ा चगयर  पेपर है ?",
-    "options": {
-      "A": "Constant mesh gear box | कौन्‍‍  टैन्‍‍ ट मैर् चगयर  \nबॉक्‍",
-      "B": "Sliding mesh gear box | स्‍ लाइच िंग  मैर् चगयर  \nबॉक्‍",
-      "C": "Synchromesh gear box | च न्‍‍ र मैर् चगयर  बॉक्‍",
-      "D": "Automatic synchromesh gear box | \nऑट मेचटक  स्‍ लाइच ग  चगयर  बॉक्‍"
+    "question": {
+      "english": "What is the name of gearbox?",
+      "hindi": "दर्शाए गए चित्र में किस प्रकार का गियरबॉक्स है?"
     },
-    "image": "extracted_images/page_3_img_5.jpeg",
-    "answer": "A"
+    "options": {
+      "A": { "english": "Constant mesh gear box", "hindi": "कॉन्स्टेंट मेश गियरबॉक्स" },
+      "B": { "english": "Sliding mesh gear box", "hindi": "स्लाइडिंग मेश गियरबॉक्स" },
+      "C": { "english": "Synchromesh gear box", "hindi": "सिंक्रोमेश गियरबॉक्स" },
+      "D": { "english": "Automatic synchromesh gear box", "hindi": "ऑटोमैटिक सिंक्रोमेश गियरबॉक्स" }
+    },
+    "answer": "A",
+    "image": "extracted_images/page_3_img_5.jpeg"
   },
   {
     "number": 16,
-    "question": "What is the type of gear box? | चनम्‍ न  चित्र में \nकौन   ा चगयर  बॉक्‍   है ?",
-    "options": {
-      "A": "Constant mesh gear box | कौन्‍‍  टैन्‍‍ ट मैर् चगयर  \nबॉक्‍ ",
-      "B": "Sliding mesh gear box | स्‍ लाइच िंग  मैर् चगयर  \nबॉक्‍",
-      "C": "Synchromesh gear box | च न्‍‍ र मैर् चगयर  बॉक्‍",
-      "D": "Automatic sliding gear box | ऑट मेचटक  \nरूलाइच ि्ग  चगयर बॉक्‍"
+    "question": {
+      "english": "What is the type of gear box?",
+      "hindi": "दर्शाए गए चित्र में किस प्रकार का गियरबॉक्स है?"
     },
-    "image": "extracted_images/page_3_img_6.jpeg",
-    "answer": "B"
+    "options": {
+      "A": { "english": "Constant mesh gear box", "hindi": "कॉन्स्टेंट मेश गियरबॉक्स" },
+      "B": { "english": "Sliding mesh gear box", "hindi": "स्लाइडिंग मेश गियरबॉक्स" },
+      "C": { "english": "Synchromesh gear box", "hindi": "सिंक्रोमेश गियरबॉक्स" },
+      "D": { "english": "Automatic sliding gear box", "hindi": "ऑटोमैटिक स्लाइडिंग गियरबॉक्स" }
+    },
+    "answer": "B",
+    "image": "extracted_images/page_3_img_6.jpeg"
   },
   {
     "number": 17,
-    "question": "Which instrument is used to check the face \nout of the fly wheel? | फ्लाई  व्‍ हील का ि े   आउट  िैक \nकरने  के चलए चक  उपकरण  का प्रय ग  चकया  जाता  है ?",
-    "options": {
-      "A": "Dial indicator |  ायल  इस्प्िक े टर",
-      "B": "Bore dial gauge | ब र  ायल  गेज",
-      "C": "Outside micrometer |  आऊट   ाइ  \nमाइर मीटर",
-      "D": "Inside micrometer | इन  ाइ  माइर मीटर"
+    "question": {
+      "english": "Which instrument is used to check the face out of the fly wheel?",
+      "hindi": "फ्लाईव्हील के फेस आउट को जांचने के लिए किस उपकरण का उपयोग किया जाता है?"
     },
-    "image": null,
-    "answer": "A"
+    "options": {
+      "A": { "english": "Dial indicator", "hindi": "डायल इंडिकेटर" },
+      "B": { "english": "Bore dial gauge", "hindi": "बोर डायल गेज" },
+      "C": { "english": "Outside micrometer", "hindi": "आउटसाइड माइक्रोमीटर" },
+      "D": { "english": "Inside micrometer", "hindi": "इनसाइड माइक्रोमीटर" }
+    },
+    "answer": "A",
+    "image": null
   },
   {
     "number": 18,
-    "question": "What is the permitted axial displacement of \ntripod joint? | टरॉइप   ज‍ वािंइट अनुमचत  एक्‍  ल \nच स्‍ प्‍ ले मेन्‍‍ ट  क्‍ या है ?",
-    "options": {
-      "A": "55 mm",
-      "B": "58 mm",
-      "C": "64 mm",
-      "D": "68 mm"
+    "question": {
+      "english": "What is the permitted axial displacement of tripod joint?",
+      "hindi": "ट्राइपॉड जॉइंट की अनुमत अक्षीय विस्थापन (axial displacement) क्या है?"
     },
-    "image": "extracted_images/page_4_img_2.jpeg",
-    "answer": "A"
+    "options": {
+      "A": { "english": "55 mm", "hindi": "55 मिमी" },
+      "B": { "english": "58 mm", "hindi": "58 मिमी" },
+      "C": { "english": "64 mm", "hindi": "64 मिमी" },
+      "D": { "english": "68 mm", "hindi": "68 मिमी" }
+    },
+    "answer": "A",
+    "image": "extracted_images/page_4_img_2.jpeg"
   },
   {
     "number": 19,
-    "question": "What is  the permitted diffraction angle of \ntripod joint? | टरॉ    ज‍ वाइिंट अनुमचत  एिंगल  क्‍ या है ?",
-    "options": {
-      "A": "13°",
-      "B": "18°",
-      "C": "26°",
-      "D": "32°"
+    "question": {
+      "english": "What is the permitted diffraction angle of tripod joint?",
+      "hindi": "ट्राइपॉड जॉइंट का अनुमत विक्षेपण कोण क्या है?"
     },
-    "image": null,
-    "answer": "C"
+    "options": {
+      "A": { "english": "13°", "hindi": "13°" },
+      "B": { "english": "18°", "hindi": "18°" },
+      "C": { "english": "26°", "hindi": "26°" },
+      "D": { "english": "32°", "hindi": "32°" }
+    },
+    "answer": "C",
+    "image": null
   },
   {
     "number": 20,
-    "question": "What is the type of constant velocity joint | \nचनम्‍ न  कौन   ी प्रकार  का कॉन्‍‍  टेन्‍‍ ट चवल च टी  ज‍ वािंइट है ?",
-    "options": {
-      "A": "Pot jo int | प ट ज‍ वािंइट",
-      "B": "Tripod joint | टरॉइप   ज‍ वािंइट",
-      "C": "Ball joint | बाल ज‍ वािंइट",
-      "D": "Double joint |  बल  ज‍ वािंइट"
+    "question": {
+      "english": "What is the type of constant velocity joint?",
+      "hindi": "दर्शाए गए चित्र में कौन सा प्रकार का कॉन्स्टेंट वेलोसिटी जॉइंट है?"
     },
-    "image": "extracted_images/page_4_img_3.jpeg",
-    "answer": "B"
+    "options": {
+      "A": { "english": "Pot joint", "hindi": "पॉट जॉइंट" },
+      "B": { "english": "Tripod joint", "hindi": "ट्राइपॉड जॉइंट" },
+      "C": { "english": "Ball joint", "hindi": "बॉल जॉइंट" },
+      "D": { "english": "Double joint", "hindi": "डबल जॉइंट" }
+    },
+    "answer": "B",
+    "image": "extracted_images/page_4_img_3.jpeg"
   },
   {
     "number": 21,
